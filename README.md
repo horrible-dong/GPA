@@ -63,7 +63,27 @@ pip install torch-spline-conv==1.2.1 -f https://pytorch-geometric.com/whl/torch-
 pip install torch-geometric
 ```
 
-5. Install necessary dependencies.
+(optional) Add environment variables in `~/.bashrc`.
+
+```bash
+export DGLBACKEND="pytorch"
+```
+
+5. Install CUDA.
+
+```bash
+wget https://developer.download.nvidia.com/compute/cuda/11.7.1/local_installers/cuda_11.7.1_515.65.01_linux.run
+sh cuda_11.7.1_515.65.01_linux.run
+```
+
+Add environment variables in `~/.bashrc`.
+
+```bash
+export PATH=/path/to/your/cuda/bin:$PATH
+export LD_LIBRARY_PATH=/path/to/your/cuda/lib64:$LD_LIBRARY_PATH
+```
+
+6. Install necessary dependencies.
 
 ```bash
 pip install -r requirements.txt
