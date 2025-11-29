@@ -1,0 +1,2286 @@
+<svg width="4592" height="1987" xmlns="http://www.w3.org/2000/svg"
+     overflow="hidden">
+    <defs>
+        <clipPath id="clip0">
+            <rect x="263" y="58" width="4592" height="1987"/>
+        </clipPath>
+        <clipPath id="clip1">
+            <rect x="1379" y="1293" width="59" height="60"/>
+        </clipPath>
+        <clipPath id="clip2">
+            <rect x="1379" y="1293" width="59" height="60"/>
+        </clipPath>
+        <clipPath id="clip3">
+            <rect x="1379" y="1293" width="59" height="60"/>
+        </clipPath>
+        <clipPath id="clip4">
+            <rect x="1321" y="1444" width="60" height="59"/>
+        </clipPath>
+        <clipPath id="clip5">
+            <rect x="1321" y="1444" width="60" height="59"/>
+        </clipPath>
+        <clipPath id="clip6">
+            <rect x="1321" y="1444" width="60" height="59"/>
+        </clipPath>
+        <clipPath id="clip7">
+            <rect x="1546" y="1313" width="60" height="59"/>
+        </clipPath>
+        <clipPath id="clip8">
+            <rect x="1546" y="1313" width="60" height="59"/>
+        </clipPath>
+        <clipPath id="clip9">
+            <rect x="1546" y="1313" width="60" height="59"/>
+        </clipPath>
+        <clipPath id="clip10">
+            <rect x="1578" y="1474" width="59" height="60"/>
+        </clipPath>
+        <clipPath id="clip11">
+            <rect x="1578" y="1474" width="59" height="60"/>
+        </clipPath>
+        <clipPath id="clip12">
+            <rect x="1578" y="1474" width="59" height="60"/>
+        </clipPath>
+        <clipPath id="clip13">
+            <rect x="1457" y="1410" width="59" height="59"/>
+        </clipPath>
+        <clipPath id="clip14">
+            <rect x="1457" y="1410" width="59" height="59"/>
+        </clipPath>
+        <clipPath id="clip15">
+            <rect x="1457" y="1410" width="59" height="59"/>
+        </clipPath>
+        <clipPath id="clip16">
+            <rect x="1439" y="1546" width="61" height="60"/>
+        </clipPath>
+        <clipPath id="clip17">
+            <rect x="1439" y="1546" width="61" height="60"/>
+        </clipPath>
+        <clipPath id="clip18">
+            <rect x="1439" y="1546" width="61" height="60"/>
+        </clipPath>
+        <clipPath id="clip19">
+            <rect x="1965" y="1892" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip20">
+            <rect x="1965" y="1892" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip21">
+            <rect x="1965" y="1892" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip22">
+            <rect x="1772" y="1379" width="109" height="110"/>
+        </clipPath>
+        <clipPath id="clip23">
+            <rect x="1772" y="1379" width="109" height="110"/>
+        </clipPath>
+        <clipPath id="clip24">
+            <rect x="1772" y="1379" width="109" height="110"/>
+        </clipPath>
+        <clipPath id="clip25">
+            <rect x="2010" y="1379" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip26">
+            <rect x="2010" y="1379" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip27">
+            <rect x="2010" y="1379" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip28">
+            <rect x="2488" y="1379" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip29">
+            <rect x="2488" y="1379" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip30">
+            <rect x="2488" y="1379" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip31">
+            <rect x="2249" y="1379" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip32">
+            <rect x="2249" y="1379" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip33">
+            <rect x="2249" y="1379" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip34">
+            <rect x="1772" y="1067" width="109" height="110"/>
+        </clipPath>
+        <clipPath id="clip35">
+            <rect x="1772" y="1067" width="109" height="110"/>
+        </clipPath>
+        <clipPath id="clip36">
+            <rect x="1772" y="1067" width="109" height="110"/>
+        </clipPath>
+        <clipPath id="clip37">
+            <rect x="2010" y="1067" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip38">
+            <rect x="2010" y="1067" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip39">
+            <rect x="2010" y="1067" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip40">
+            <rect x="2488" y="1067" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip41">
+            <rect x="2488" y="1067" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip42">
+            <rect x="2488" y="1067" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip43">
+            <rect x="2249" y="1067" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip44">
+            <rect x="2249" y="1067" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip45">
+            <rect x="2249" y="1067" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip46">
+            <rect x="1772" y="755" width="109" height="110"/>
+        </clipPath>
+        <clipPath id="clip47">
+            <rect x="1772" y="755" width="109" height="110"/>
+        </clipPath>
+        <clipPath id="clip48">
+            <rect x="1772" y="755" width="109" height="110"/>
+        </clipPath>
+        <clipPath id="clip49">
+            <rect x="2010" y="755" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip50">
+            <rect x="2010" y="755" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip51">
+            <rect x="2010" y="755" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip52">
+            <rect x="2488" y="755" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip53">
+            <rect x="2488" y="755" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip54">
+            <rect x="2488" y="755" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip55">
+            <rect x="2249" y="755" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip56">
+            <rect x="2249" y="755" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip57">
+            <rect x="2249" y="755" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip58">
+            <rect x="1772" y="445" width="109" height="110"/>
+        </clipPath>
+        <clipPath id="clip59">
+            <rect x="1772" y="445" width="109" height="110"/>
+        </clipPath>
+        <clipPath id="clip60">
+            <rect x="1772" y="445" width="109" height="110"/>
+        </clipPath>
+        <clipPath id="clip61">
+            <rect x="2010" y="445" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip62">
+            <rect x="2010" y="445" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip63">
+            <rect x="2010" y="445" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip64">
+            <rect x="2488" y="445" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip65">
+            <rect x="2488" y="445" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip66">
+            <rect x="2488" y="445" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip67">
+            <rect x="2249" y="445" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip68">
+            <rect x="2249" y="445" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip69">
+            <rect x="2249" y="445" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip70">
+            <rect x="1772" y="133" width="109" height="111"/>
+        </clipPath>
+        <clipPath id="clip71">
+            <rect x="1772" y="133" width="109" height="111"/>
+        </clipPath>
+        <clipPath id="clip72">
+            <rect x="1772" y="133" width="109" height="111"/>
+        </clipPath>
+        <clipPath id="clip73">
+            <rect x="2010" y="133" width="110" height="111"/>
+        </clipPath>
+        <clipPath id="clip74">
+            <rect x="2010" y="133" width="110" height="111"/>
+        </clipPath>
+        <clipPath id="clip75">
+            <rect x="2010" y="133" width="110" height="111"/>
+        </clipPath>
+        <clipPath id="clip76">
+            <rect x="2488" y="133" width="111" height="111"/>
+        </clipPath>
+        <clipPath id="clip77">
+            <rect x="2488" y="133" width="111" height="111"/>
+        </clipPath>
+        <clipPath id="clip78">
+            <rect x="2488" y="133" width="111" height="111"/>
+        </clipPath>
+        <clipPath id="clip79">
+            <rect x="2249" y="133" width="111" height="111"/>
+        </clipPath>
+        <clipPath id="clip80">
+            <rect x="2249" y="133" width="111" height="111"/>
+        </clipPath>
+        <clipPath id="clip81">
+            <rect x="2249" y="133" width="111" height="111"/>
+        </clipPath>
+        <clipPath id="clip82">
+            <rect x="2462" y="1892" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip83">
+            <rect x="2462" y="1892" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip84">
+            <rect x="2462" y="1892" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip85">
+            <rect x="1054" y="576" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip86">
+            <rect x="1054" y="576" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip87">
+            <rect x="1054" y="576" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip88">
+            <rect x="771" y="1171" width="109" height="111"/>
+        </clipPath>
+        <clipPath id="clip89">
+            <rect x="771" y="1171" width="109" height="111"/>
+        </clipPath>
+        <clipPath id="clip90">
+            <rect x="771" y="1171" width="109" height="111"/>
+        </clipPath>
+        <clipPath id="clip91">
+            <rect x="548" y="957" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip92">
+            <rect x="548" y="957" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip93">
+            <rect x="548" y="957" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip94">
+            <rect x="533" y="1343" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip95">
+            <rect x="533" y="1343" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip96">
+            <rect x="533" y="1343" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip97">
+            <rect x="342" y="1127" width="109" height="111"/>
+        </clipPath>
+        <clipPath id="clip98">
+            <rect x="342" y="1127" width="109" height="111"/>
+        </clipPath>
+        <clipPath id="clip99">
+            <rect x="342" y="1127" width="109" height="111"/>
+        </clipPath>
+        <clipPath id="clip100">
+            <rect x="988" y="1285" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip101">
+            <rect x="988" y="1285" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip102">
+            <rect x="988" y="1285" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip103">
+            <rect x="1097" y="974" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip104">
+            <rect x="1097" y="974" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip105">
+            <rect x="1097" y="974" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip106">
+            <rect x="613" y="576" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip107">
+            <rect x="613" y="576" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip108">
+            <rect x="613" y="576" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip109">
+            <rect x="464" y="344" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip110">
+            <rect x="464" y="344" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip111">
+            <rect x="464" y="344" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip112">
+            <rect x="346" y="695" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip113">
+            <rect x="346" y="695" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip114">
+            <rect x="346" y="695" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip115">
+            <rect x="789" y="1511" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip116">
+            <rect x="789" y="1511" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip117">
+            <rect x="789" y="1511" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip118">
+            <rect x="678" y="117" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip119">
+            <rect x="678" y="117" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip120">
+            <rect x="678" y="117" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip121">
+            <rect x="896" y="334" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip122">
+            <rect x="896" y="334" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip123">
+            <rect x="896" y="334" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip124">
+            <rect x="821" y="781" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip125">
+            <rect x="821" y="781" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip126">
+            <rect x="821" y="781" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip127">
+            <rect x="614" y="1892" width="111" height="109"/>
+        </clipPath>
+        <clipPath id="clip128">
+            <rect x="614" y="1892" width="111" height="109"/>
+        </clipPath>
+        <clipPath id="clip129">
+            <rect x="614" y="1892" width="111" height="109"/>
+        </clipPath>
+        <clipPath id="clip130">
+            <rect x="475" y="1892" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip131">
+            <rect x="475" y="1892" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip132">
+            <rect x="475" y="1892" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip133">
+            <rect x="334" y="1892" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip134">
+            <rect x="334" y="1892" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip135">
+            <rect x="334" y="1892" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip136">
+            <rect x="3840" y="368" width="109" height="111"/>
+        </clipPath>
+        <clipPath id="clip137">
+            <rect x="3840" y="368" width="109" height="111"/>
+        </clipPath>
+        <clipPath id="clip138">
+            <rect x="3840" y="368" width="109" height="111"/>
+        </clipPath>
+        <clipPath id="clip139">
+            <rect x="3771" y="337" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip140">
+            <rect x="3771" y="337" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip141">
+            <rect x="3771" y="337" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip142">
+            <rect x="3703" y="306" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip143">
+            <rect x="3703" y="306" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip144">
+            <rect x="3703" y="306" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip145">
+            <rect x="3636" y="276" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip146">
+            <rect x="3636" y="276" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip147">
+            <rect x="3636" y="276" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip148">
+            <rect x="3569" y="245" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip149">
+            <rect x="3569" y="245" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip150">
+            <rect x="3569" y="245" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip151">
+            <rect x="3840" y="680" width="109" height="110"/>
+        </clipPath>
+        <clipPath id="clip152">
+            <rect x="3840" y="680" width="109" height="110"/>
+        </clipPath>
+        <clipPath id="clip153">
+            <rect x="3840" y="680" width="109" height="110"/>
+        </clipPath>
+        <clipPath id="clip154">
+            <rect x="3771" y="650" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip155">
+            <rect x="3771" y="650" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip156">
+            <rect x="3771" y="650" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip157">
+            <rect x="3703" y="619" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip158">
+            <rect x="3703" y="619" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip159">
+            <rect x="3703" y="619" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip160">
+            <rect x="3636" y="588" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip161">
+            <rect x="3636" y="588" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip162">
+            <rect x="3636" y="588" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip163">
+            <rect x="3569" y="556" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip164">
+            <rect x="3569" y="556" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip165">
+            <rect x="3569" y="556" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip166">
+            <rect x="3840" y="992" width="109" height="110"/>
+        </clipPath>
+        <clipPath id="clip167">
+            <rect x="3840" y="992" width="109" height="110"/>
+        </clipPath>
+        <clipPath id="clip168">
+            <rect x="3840" y="992" width="109" height="110"/>
+        </clipPath>
+        <clipPath id="clip169">
+            <rect x="3771" y="961" width="110" height="111"/>
+        </clipPath>
+        <clipPath id="clip170">
+            <rect x="3771" y="961" width="110" height="111"/>
+        </clipPath>
+        <clipPath id="clip171">
+            <rect x="3771" y="961" width="110" height="111"/>
+        </clipPath>
+        <clipPath id="clip172">
+            <rect x="3703" y="930" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip173">
+            <rect x="3703" y="930" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip174">
+            <rect x="3703" y="930" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip175">
+            <rect x="3636" y="899" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip176">
+            <rect x="3636" y="899" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip177">
+            <rect x="3636" y="899" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip178">
+            <rect x="3569" y="869" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip179">
+            <rect x="3569" y="869" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip180">
+            <rect x="3569" y="869" width="110" height="109"/>
+        </clipPath>
+        <clipPath id="clip181">
+            <rect x="3840" y="1303" width="109" height="111"/>
+        </clipPath>
+        <clipPath id="clip182">
+            <rect x="3840" y="1303" width="109" height="111"/>
+        </clipPath>
+        <clipPath id="clip183">
+            <rect x="3840" y="1303" width="109" height="111"/>
+        </clipPath>
+        <clipPath id="clip184">
+            <rect x="3771" y="1272" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip185">
+            <rect x="3771" y="1272" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip186">
+            <rect x="3771" y="1272" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip187">
+            <rect x="3703" y="1241" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip188">
+            <rect x="3703" y="1241" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip189">
+            <rect x="3703" y="1241" width="111" height="110"/>
+        </clipPath>
+        <clipPath id="clip190">
+            <rect x="3636" y="1211" width="110" height="111"/>
+        </clipPath>
+        <clipPath id="clip191">
+            <rect x="3636" y="1211" width="110" height="111"/>
+        </clipPath>
+        <clipPath id="clip192">
+            <rect x="3636" y="1211" width="110" height="111"/>
+        </clipPath>
+        <clipPath id="clip193">
+            <rect x="3569" y="1181" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip194">
+            <rect x="3569" y="1181" width="110" height="110"/>
+        </clipPath>
+        <clipPath id="clip195">
+            <rect x="3569" y="1181" width="110" height="110"/>
+        </clipPath>
+    </defs>
+    <g clip-path="url(#clip0)" transform="translate(-263 -58)">
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="37"
+              transform="matrix(1 0 0 1 1454.72 1387)">5
+            <tspan font-size="37" x="-32.9325" y="60">2</tspan>
+            <tspan font-size="37" x="0.402344" y="116">3</tspan>
+        </text>
+        <path d="M1515.4 1458.1 1575.94 1488.76" stroke="#000000" stroke-width="3.4375" stroke-miterlimit="8"
+              fill="none" fill-rule="evenodd"/>
+        <path d="M1480.49 1473.47 1472.67 1541.63" stroke="#000000" stroke-width="3.4375" stroke-miterlimit="8"
+              fill="none" fill-rule="evenodd"/>
+        <path d="M1428.36 1353.15 1463.33 1407.91" stroke="#000000" stroke-width="3.4375" stroke-miterlimit="8"
+              fill="none" fill-rule="evenodd"/>
+        <path d="M0 0 31.8246 56.5915" stroke="#000000" stroke-width="3.4375" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd" transform="matrix(-0.970979 -0.239164 -0.239164 0.970979 1554.27 1367.86)"/>
+        <path d="M0 0 59.7317 33.6391" stroke="#000000" stroke-width="3.4375" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd" transform="matrix(0.970979 0.239164 0.239164 -0.970979 1384.13 1466.82)"/>
+        <g clip-path="url(#clip1)">
+            <g clip-path="url(#clip2)">
+                <g clip-path="url(#clip3)">
+                    <path d="M29.4999 54.0831C43.0768 54.0831 54.0831 43.0768 54.0831 29.4999 54.0831 15.9229 43.0768 4.91665 29.4999 4.91665 15.9229 4.91665 4.91665 15.9229 4.91665 29.4999 4.91665 43.0768 15.9229 54.0831 29.4999 54.0831Z"
+                          stroke="#000000" stroke-width="3.68749" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd" transform="matrix(-1 0 0 1.00001 1438 1294)"/>
+                    <path d="M4.91665 29.4999 54.0831 29.4999" stroke="#000000" stroke-width="3.68749"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(-1 0 0 1.00001 1438 1294)"/>
+                    <path d="M29.4999 54.0831C34.9307 54.0831 39.3332 43.0768 39.3332 29.4999 39.3332 15.9229 34.9307 4.91665 29.4999 4.91665 24.0691 4.91665 19.6666 15.9229 19.6666 29.4999 19.6666 43.0768 24.0691 54.0831 29.4999 54.0831Z"
+                          stroke="#000000" stroke-width="3.68749" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd" transform="matrix(-1 0 0 1.00001 1438 1294)"/>
+                    <path d="M12.117 12.4663C16.5657 16.915 22.7115 19.6666 29.4999 19.6666 36.2884 19.6666 42.4342 16.915 46.8829 12.4663"
+                          stroke="#000000" stroke-width="3.68749" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(-1 0 0 1.00001 1438 1294)"/>
+                    <path d="M46.8829 46.5335C42.4342 42.0848 36.2884 39.3332 29.4999 39.3332 22.7115 39.3332 16.5657 42.0848 12.117 46.5335"
+                          stroke="#000000" stroke-width="3.68749" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(-1 0 0 1.00001 1438 1294)"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip4)">
+            <g clip-path="url(#clip5)">
+                <g clip-path="url(#clip6)">
+                    <path d="M29.4999 54.0831C43.0768 54.0831 54.0831 43.0768 54.0831 29.4999 54.0831 15.9229 43.0768 4.91665 29.4999 4.91665 15.9229 4.91665 4.91665 15.9229 4.91665 29.4999 4.91665 43.0768 15.9229 54.0831 29.4999 54.0831Z"
+                          stroke="#000000" stroke-width="3.68749" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd" transform="matrix(-1.00001 0 0 1 1380 1444)"/>
+                    <path d="M4.91665 29.4999 54.0831 29.4999" stroke="#000000" stroke-width="3.68749"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(-1.00001 0 0 1 1380 1444)"/>
+                    <path d="M29.4999 54.0831C34.9307 54.0831 39.3332 43.0768 39.3332 29.4999 39.3332 15.9229 34.9307 4.91665 29.4999 4.91665 24.0691 4.91665 19.6666 15.9229 19.6666 29.4999 19.6666 43.0768 24.0691 54.0831 29.4999 54.0831Z"
+                          stroke="#000000" stroke-width="3.68749" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd" transform="matrix(-1.00001 0 0 1 1380 1444)"/>
+                    <path d="M12.117 12.4663C16.5657 16.915 22.7115 19.6666 29.4999 19.6666 36.2884 19.6666 42.4342 16.915 46.8829 12.4663"
+                          stroke="#000000" stroke-width="3.68749" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(-1.00001 0 0 1 1380 1444)"/>
+                    <path d="M46.8829 46.5335C42.4342 42.0848 36.2884 39.3332 29.4999 39.3332 22.7115 39.3332 16.5657 42.0848 12.117 46.5335"
+                          stroke="#000000" stroke-width="3.68749" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(-1.00001 0 0 1 1380 1444)"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip7)">
+            <g clip-path="url(#clip8)">
+                <g clip-path="url(#clip9)">
+                    <path d="M54.0831 29.4999C54.0831 43.0768 43.0768 54.0831 29.4999 54.0831 15.9229 54.0831 4.91665 43.0768 4.91665 29.4999 4.91665 15.9229 15.9229 4.91665 29.4999 4.91665 43.0768 4.91665 54.0831 15.9229 54.0831 29.4999Z"
+                          stroke="#000000" stroke-width="3.68749" fill="none"
+                          transform="matrix(-1.00001 0 0 1 1606 1313)"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip10)">
+            <g clip-path="url(#clip11)">
+                <g clip-path="url(#clip12)">
+                    <path d="M54.0831 29.4999C54.0831 43.0768 43.0768 54.0831 29.4999 54.0831 15.9229 54.0831 4.91665 43.0768 4.91665 29.4999 4.91665 15.9229 15.9229 4.91665 29.4999 4.91665 43.0768 4.91665 54.0831 15.9229 54.0831 29.4999Z"
+                          stroke="#000000" stroke-width="3.68749" fill="none"
+                          transform="matrix(-1 0 0 1.00001 1637 1474)"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip13)">
+            <g clip-path="url(#clip14)">
+                <g clip-path="url(#clip15)">
+                    <path d="M54.0831 29.4999C54.0831 43.0768 43.0768 54.0831 29.4999 54.0831 15.9229 54.0831 4.91665 43.0768 4.91665 29.4999 4.91665 15.9229 15.9229 4.91665 29.4999 4.91665 43.0768 4.91665 54.0831 15.9229 54.0831 29.4999Z"
+                          stroke="#000000" stroke-width="3.68749" fill="none" transform="matrix(-1 0 0 1 1516 1410)"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip16)">
+            <g clip-path="url(#clip17)">
+                <g clip-path="url(#clip18)">
+                    <path d="M29.5001 54.0835C43.0771 54.0835 54.0835 43.0771 54.0835 29.5001 54.0835 15.923 43.0771 4.91668 29.5001 4.91668 15.923 4.91668 4.91668 15.923 4.91668 29.5001 4.91668 43.0771 15.923 54.0835 29.5001 54.0835Z"
+                          stroke="#000000" stroke-width="3.68751" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd" transform="matrix(-1 0 0 1 1499 1547)"/>
+                    <path d="M4.91668 29.5001 54.0835 29.5001" stroke="#000000" stroke-width="3.68751"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(-1 0 0 1 1499 1547)"/>
+                    <path d="M29.5001 54.0835C34.9309 54.0835 39.3334 43.0771 39.3334 29.5001 39.3334 15.923 34.9309 4.91668 29.5001 4.91668 24.0692 4.91668 19.6667 15.923 19.6667 29.5001 19.6667 43.0771 24.0692 54.0835 29.5001 54.0835Z"
+                          stroke="#000000" stroke-width="3.68751" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd" transform="matrix(-1 0 0 1 1499 1547)"/>
+                    <path d="M12.117 12.4664C16.5658 16.9151 22.7116 19.6667 29.5001 19.6667 36.2886 19.6667 42.4345 16.9151 46.8832 12.4664"
+                          stroke="#000000" stroke-width="3.68751" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(-1 0 0 1 1499 1547)"/>
+                    <path d="M46.8832 46.5338C42.4345 42.085 36.2886 39.3334 29.5001 39.3334 22.7116 39.3334 16.5658 42.085 12.117 46.5338"
+                          stroke="#000000" stroke-width="3.68751" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(-1 0 0 1 1499 1547)"/>
+                </g>
+            </g>
+        </g>
+        <path d="M124.817 26.8549C132.081-0.346196 175.587-13.174 191.12 18.9728 206.652 51.1196 243.822 171.979 218.012 219.736 192.202 267.492 71.1104 300.953 36.2589 305.512 1.40737 310.071-9.64306 267.647 8.90316 247.091 27.4494 226.536 127.985 218.422 147.536 182.18 167.087 145.937 117.553 54.0561 124.817 26.8549Z"
+              stroke="#3B3838" stroke-width="4.58333" stroke-miterlimit="8" stroke-dasharray="4.58333 4.58333"
+              fill="none" fill-rule="evenodd"
+              transform="matrix(-0.970979 -0.239164 -0.239164 0.970979 1575.92 1323.3)"/>
+        <path d="M74.0071 9.93747C87.1441-4.59051 129.414-3.81751 137.064 16.4287 144.715 36.675 136.137 97.4913 119.909 131.415 103.681 165.34 59.6337 212.555 39.6964 219.974 19.7591 227.392-2.8054 195.323 0.285642 175.926 3.37669 156.53 45.9558 130.565 58.2427 103.596 70.5296 76.6268 60.8701 24.4654 74.0071 9.93747Z"
+              stroke="#3B3838" stroke-width="4.58333" stroke-miterlimit="8" stroke-dasharray="4.58333 4.58333"
+              fill="none" fill-rule="evenodd"
+              transform="matrix(-0.970979 -0.239164 -0.239164 0.970979 1687.14 1334.82)"/>
+        <path d="M51.3262 90.004C56.785 69.8223 30.2525 27.4181 33.8071 13.8124 37.3618 0.206763 62.8785-6.36937 72.6537 8.37015 82.4289 23.1097 100.583 76.852 92.4578 102.249 84.333 127.646 39.139 155.311 23.9051 160.753 8.67111 166.196-3.76986 146.581 1.05414 134.903 5.87814 123.225 45.8674 110.186 51.3262 90.004Z"
+              stroke="#3B3838" stroke-width="4.58333" stroke-miterlimit="8" stroke-dasharray="4.58333 4.58333"
+              fill="none" fill-rule="evenodd" transform="matrix(-0.970979 -0.239164 -0.239164 0.970979 1525.03 1366)"/>
+        <path d="M1602.86 1180.83 1559.7 1242.47 1354.93 1099.09 1398.09 1037.45Z" fill="#AFABAB" fill-rule="evenodd"/>
+        <path d="M1402.86 1086.72C1406.97 1080.84 1415.08 1079.41 1420.95 1083.53 1426.83 1087.64 1428.26 1095.74 1424.14 1101.62 1420.03 1107.5 1411.93 1108.93 1406.05 1104.81 1400.17 1100.69 1398.74 1092.59 1402.86 1086.72Z"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill-rule="evenodd"/>
+        <path d="M1467.51 1131.98C1471.62 1126.11 1479.72 1124.68 1485.6 1128.79 1491.48 1132.91 1492.91 1141.01 1488.79 1146.89 1484.68 1152.77 1476.58 1154.19 1470.7 1150.08 1464.82 1145.96 1463.39 1137.86 1467.51 1131.98Z"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill-rule="evenodd"/>
+        <path d="M1532.16 1177.25C1536.27 1171.37 1544.37 1169.95 1550.25 1174.06 1556.13 1178.18 1557.56 1186.28 1553.44 1192.16 1549.33 1198.03 1541.23 1199.46 1535.35 1195.35 1529.47 1191.23 1528.04 1183.13 1532.16 1177.25Z"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill-rule="evenodd"/>
+        <path d="M1476.6 1346.78 1468.91 1335.4 1461.44 1324.05 1454.34 1312.61 1447.85 1301.2 1442.22 1289.74 1437.64 1278.24 1434.33 1266.72 1433.23 1260.91 1432.53 1255.13 1432.27 1249.34 1432.4 1243.52 1433.8 1232.1 1436.48 1220.69 1440.22 1209.33 1444.84 1198.02 1450.06 1186.81 1455.71 1175.58 1459.43 1168.46 1463.49 1170.58 1459.78 1177.69 1459.8 1177.65 1454.17 1188.84 1454.2 1188.78 1449.01 1199.91 1449.06 1199.8 1444.5 1210.99 1444.55 1210.84 1440.86 1222.03 1440.92 1221.84 1438.29 1233.02 1438.34 1232.78 1436.96 1243.97 1436.98 1243.74 1436.85 1249.36 1436.85 1249.21 1437.1 1254.84 1437.09 1254.66 1437.77 1260.28 1437.75 1260.14 1438.81 1265.76 1438.77 1265.55 1442.02 1276.87 1441.94 1276.65 1446.44 1287.97 1446.37 1287.8 1451.93 1299.11 1451.87 1298.99 1458.3 1310.3 1458.26 1310.23 1465.32 1321.6 1465.29 1321.55 1472.73 1332.87 1472.71 1332.84 1480.4 1344.22ZM1433.29 1184.53 1463.57 1165.49 1465.23 1201.22C1465.29 1202.48 1464.32 1203.55 1463.05 1203.61 1461.79 1203.67 1460.71 1202.7 1460.66 1201.43L1459.17 1169.63 1462.68 1171.46 1435.73 1188.41C1434.66 1189.08 1433.24 1188.76 1432.57 1187.69 1431.89 1186.62 1432.22 1185.2 1433.29 1184.53Z"
+              fill="#3B3838"/>
+        <path d="M1538.72 1318.94 1530.06 1308.28 1525.99 1302.74 1522.29 1297.06 1519.01 1291.2 1516.34 1285.03 1514.45 1278.56 1513.4 1271.81 1513.33 1264.7 1514.11 1257.4 1515.64 1249.91 1517.74 1242.21 1520.34 1234.43 1523.24 1226.55 1527.98 1214.84 1532.23 1216.57 1527.5 1228.24 1527.53 1228.17 1524.65 1235.98 1524.67 1235.91 1522.11 1243.6 1522.15 1243.48 1520.09 1251.04 1520.12 1250.9 1518.62 1258.21 1518.65 1257.99 1517.9 1265.05 1517.92 1264.79 1517.98 1271.6 1517.95 1271.27 1518.95 1277.71 1518.89 1277.42 1520.7 1283.61 1520.6 1283.34 1523.17 1289.28 1523.06 1289.07 1526.25 1294.75 1526.17 1294.62 1529.8 1300.19 1529.72 1300.08 1533.72 1305.52 1533.65 1305.43 1542.28 1316.06ZM1503.51 1233.35 1531.82 1211.49 1536.91 1246.89C1537.09 1248.14 1536.22 1249.31 1534.97 1249.49 1533.71 1249.67 1532.55 1248.8 1532.37 1247.54L1527.84 1216.03 1531.51 1217.52 1506.31 1236.97C1505.31 1237.75 1503.87 1237.56 1503.09 1236.56 1502.32 1235.56 1502.51 1234.12 1503.51 1233.35Z"
+              fill="#3B3838"/>
+        <path d="M1380.52 1286.93 1375.07 1280.09 1369.76 1273.09 1364.8 1265.83 1360.51 1258.14 1356.96 1250.02 1354.5 1241.21 1353.27 1231.77 1353.27 1226.74 1353.59 1221.52 1354.37 1216.11 1355.52 1210.45 1358.88 1198.78 1363.44 1186.52 1369.04 1173.67 1375.45 1160.47 1382.47 1146.93 1389.86 1133.22 1395.3 1123.36 1399.31 1125.58 1393.88 1135.42 1393.89 1135.4 1386.52 1149.09 1386.53 1149.06 1379.53 1162.56 1379.56 1162.5 1373.19 1175.63 1373.23 1175.54 1367.66 1188.29 1367.71 1188.17 1363.21 1200.3 1363.26 1200.13 1359.95 1211.63 1360 1211.46 1358.87 1216.96 1358.89 1216.82 1358.14 1222.07 1358.16 1221.89 1357.85 1226.95 1357.85 1226.81 1357.85 1231.63 1357.83 1231.33 1359.02 1240.45 1358.96 1240.13 1361.33 1248.63 1361.23 1248.33 1364.66 1256.21 1364.56 1256.01 1368.75 1263.51 1368.64 1263.33 1373.52 1270.46 1373.45 1270.37 1378.7 1277.3 1378.67 1277.26 1384.1 1284.07ZM1368.8 1138.83 1399.51 1120.49 1400.35 1156.25C1400.38 1157.51 1399.38 1158.56 1398.11 1158.59 1396.85 1158.62 1395.8 1157.62 1395.77 1156.35L1395.02 1124.53 1398.48 1126.44 1371.15 1142.76C1370.06 1143.41 1368.65 1143.06 1368.01 1141.97 1367.36 1140.88 1367.71 1139.48 1368.8 1138.83Z"
+              fill="#3B3838"/>
+        <path d="M2888 253.837C2888 146.232 2975.23 59.0001 3082.84 59.0001L3862.16 59.0001C3969.77 59.0001 4057 146.232 4057 253.837L4057 1463.16C4057 1570.77 3969.77 1658 3862.16 1658L3082.84 1658C2975.23 1658 2888 1570.77 2888 1463.16Z"
+              fill="#F5F5F5" fill-rule="evenodd"/>
+        <path d="M265 227.337C265 133.815 340.815 58.0001 434.337 58.0001L857.667 58.0001 857.667 58.0001 1111.67 58.0001 1111.66 58.0001C1205.19 58.0001 1281 133.815 1281 227.337L1281 324.667 1616.73 407.745 1281 724.667 1281 1488.66C1281 1582.19 1205.19 1658 1111.66 1658L1111.67 1658 857.667 1658 857.667 1658 434.337 1658C340.815 1658 265 1582.19 265 1488.66L265 724.667 265 324.667 265 324.667Z"
+              fill="#F5F5F5" fill-rule="evenodd"/>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="700" font-size="83"
+              transform="matrix(1 0 0 1 513.193 1791)">Path Sampling
+            <tspan font-size="83" x="1411.37" y="0">Path Encoding</tspan>
+            <tspan font-size="83" x="2489.47" y="0">Interaction &amp; Aggregation</tspan>
+        </text>
+        <path d="M265.5 1898.67C265.5 1885.32 276.32 1874.5 289.668 1874.5L4790.33 1874.5C4803.68 1874.5 4814.5 1885.32 4814.5 1898.67L4814.5 1995.33C4814.5 2008.68 4803.68 2019.5 4790.33 2019.5L289.668 2019.5C276.32 2019.5 265.5 2008.68 265.5 1995.33Z"
+              stroke="#7F7F7F" stroke-width="4.58333" stroke-miterlimit="8" stroke-dasharray="18.3333 13.75" fill="none"
+              fill-rule="evenodd"/>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="83"
+              transform="matrix(1 0 0 1 3812.66 1976)">Behavior Feat.
+        </text>
+        <g clip-path="url(#clip19)">
+            <g clip-path="url(#clip20)">
+                <g clip-path="url(#clip21)">
+                    <path d="M2020.5 1991.92C2045.58 1991.92 2065.92 1971.58 2065.92 1946.5 2065.92 1921.42 2045.58 1901.08 2020.5 1901.08 1995.42 1901.08 1975.08 1921.42 1975.08 1946.5 1975.08 1971.58 1995.42 1991.92 2020.5 1991.92Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M1975.08 1946.5 2065.92 1946.5" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M2020.5 1991.92C2030.53 1991.92 2038.67 1971.58 2038.67 1946.5 2038.67 1921.42 2030.53 1901.08 2020.5 1901.08 2010.47 1901.08 2002.33 1921.42 2002.33 1946.5 2002.33 1971.58 2010.47 1991.92 2020.5 1991.92Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M1988.39 1915.03C1996.6 1923.25 2007.96 1928.33 2020.5 1928.33 2033.04 1928.33 2044.4 1923.25 2052.61 1915.03"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M2052.61 1977.97C2044.4 1969.75 2033.04 1964.67 2020.5 1964.67 2007.96 1964.67 1996.6 1969.75 1988.39 1977.97"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                </g>
+            </g>
+        </g>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="83"
+              transform="matrix(1 0 0 1 2101.72 1976)">Website
+        </text>
+        <path d="M1424.75 988.5 1424.75 750 1362.5 750 1487 625.5 1611.5 750 1549.25 750 1549.25 988.5Z"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="73"
+              transform="matrix(-1.83697e-16 -1 1 -1.83697e-16 1509.02 960)">Behavior
+        </text>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="83"
+              transform="matrix(1 0 0 1 751.84 1976)">User (Any / Benign / Anomalous)
+        </text>
+        <path d="M4190 441.834C4190 424.805 4203.8 411 4220.83 411L4711.17 411C4728.2 411 4742 424.805 4742 441.834L4742 565.166C4742 582.195 4728.2 596 4711.17 596L4220.83 596C4203.8 596 4190 582.195 4190 565.166Z"
+              fill="#F0F0F0" fill-rule="evenodd"/>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="83"
+              transform="matrix(1 0 0 1 4381.44 534)">MLP
+        </text>
+        <path d="M4190.5 129.5 4386.5 129.5C4447.87 129.5 4497.63 179.253 4497.63 240.625L4497.63 320 4529.5 320 4466.53 383.5 4403.56 320 4435.44 320 4435.44 240.625C4435.44 213.599 4413.53 191.69 4386.5 191.69L4190.5 191.69Z"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M4404.5 1171.5 4435.5 1171.5 4435.5 1049.5 4497.5 1049.5 4497.5 1171.5 4528.5 1171.5 4466.5 1233.5Z"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="700" font-size="83"
+              transform="matrix(1 0 0 1 4203.43 1791)">Fraud Detection
+            <tspan font-weight="400" font-size="64" x="-37.4653" y="-148">b</tspan>
+            <tspan font-weight="400" font-size="64" x="-5.38184" y="-148">enign/fraudulent</tspan>
+            <tspan font-weight="400" font-size="64" x="434.618" y="-148">pattern</tspan>
+        </text>
+        <rect x="4250" y="1425" width="71" height="127" fill="#ADB9CA"/>
+        <rect x="4560" y="1227" width="70" height="325" fill="#ADB9CA"/>
+        <rect x="4457" y="1371" width="70" height="181" fill="#ADB9CA"/>
+        <rect x="4353" y="1510" width="71" height="41.9999" fill="#ADB9CA"/>
+        <rect x="4663" y="1449" width="70" height="103" fill="#ADB9CA"/>
+        <path d="M3.4375-3.57343e-06 3.43784 324.248-3.43716 324.248-3.4375 3.57343e-06ZM13.7503 319.664 0.000360892 347.164-13.7497 319.664Z"
+              fill="#3B3838" transform="matrix(1 0 0 -1 4203.5 1558.66)"/>
+        <path d="M4203.5 1552.06 4766.61 1552.06 4766.61 1558.94 4203.5 1558.94ZM4762.02 1541.75 4789.52 1555.5 4762.02 1569.25Z"
+              fill="#3B3838"/>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="64"
+              transform="matrix(-1.83697e-16 -1 1 -1.83697e-16 4157.18 1530)">probability
+        </text>
+        <path d="M4190 866.834C4190 849.805 4203.8 836 4220.83 836L4711.17 836C4728.2 836 4742 849.805 4742 866.834L4742 990.166C4742 1007.2 4728.2 1021 4711.17 1021L4220.83 1021C4203.8 1021 4190 1007.2 4190 990.166Z"
+              fill="#F0F0F0" fill-rule="evenodd"/>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="83"
+              transform="matrix(1 0 0 1 4314.98 959)">Predictor
+        </text>
+        <path d="M4404.5 746.5 4435.5 746.5 4435.5 624.5 4497.5 624.5 4497.5 746.5 4528.5 746.5 4466.5 808.5Z"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="73"
+              transform="matrix(1 0 0 1 1790.18 1623)">#1
+            <tspan font-size="73" x="238.926" y="0">#2</tspan>
+            <tspan font-size="73" x="716.776" y="0">#4</tspan>
+            <tspan font-size="73" x="477.851" y="0">#3</tspan>
+        </text>
+        <path d="M2057.5 1638.5C2057.5 1647.34 2056.9 1654.5 2056.17 1654.5L1835.83 1654.5C1835.1 1654.5 1834.5 1647.34 1834.5 1638.5"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M2296.5 1638.5C2296.5 1647.34 2295.9 1654.5 2295.17 1654.5L2074.83 1654.5C2074.1 1654.5 2073.5 1647.34 2073.5 1638.5"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M2535.5 1638.5C2535.5 1647.34 2534.9 1654.5 2534.17 1654.5L2313.83 1654.5C2313.1 1654.5 2312.5 1647.34 2312.5 1638.5"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="83"
+              transform="matrix(1 0 0 1 3051.26 1585)">Attention
+        </text>
+        <path d="M2790.75 1472.5 2790.75 1454.25 2673.5 1454.25 2673.5 1417.75 2790.75 1417.75 2790.75 1399.5 2838.5 1436Z"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M2790.75 1160.5 2790.75 1142.25 2673.5 1142.25 2673.5 1105.75 2790.75 1105.75 2790.75 1087.5 2838.5 1124Z"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M2790.75 849.5 2790.75 831.25 2673.5 831.25 2673.5 794.75 2790.75 794.75 2790.75 776.5 2838.5 813Z"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M2790.75 538.5 2790.75 520.25 2673.5 520.25 2673.5 483.75 2790.75 483.75 2790.75 465.5 2838.5 502Z"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <rect x="1747" y="1323" width="876" height="225" fill="#FFC000" fill-opacity="0.101961"/>
+        <path d="M1988.74 1438.16 1893 1438.16 1893 1427.84 1988.74 1427.84ZM1970.84 1415.74 1998.47 1433 1970.84 1450.26C1968.43 1451.77 1965.25 1451.04 1963.74 1448.62 1962.23 1446.21 1962.96 1443.03 1965.38 1441.52L1986 1428.63 1986 1437.37 1965.38 1424.48C1962.96 1422.97 1962.23 1419.79 1963.74 1417.38 1965.25 1414.96 1968.43 1414.23 1970.84 1415.74Z"
+              fill="#FFC000"/>
+        <path d="M2227.74 1438.16 2132 1438.16 2132 1427.84 2227.74 1427.84ZM2209.84 1415.74 2237.47 1433 2209.84 1450.26C2207.43 1451.77 2204.25 1451.04 2202.74 1448.62 2201.23 1446.21 2201.96 1443.03 2204.38 1441.52L2225 1428.63 2225 1437.37 2204.38 1424.48C2201.96 1422.97 2201.23 1419.79 2202.74 1417.38 2204.25 1414.96 2207.43 1414.23 2209.84 1415.74Z"
+              fill="#FFC000"/>
+        <path d="M2466.74 1438.16 2371 1438.16 2371 1427.84 2466.74 1427.84ZM2448.84 1415.74 2476.47 1433 2448.84 1450.26C2446.43 1451.77 2443.25 1451.04 2441.74 1448.62 2440.23 1446.21 2440.96 1443.03 2443.38 1441.52L2464 1428.63 2464 1437.37 2443.38 1424.48C2440.96 1422.97 2440.23 1419.79 2441.74 1417.38 2443.25 1414.96 2446.43 1414.23 2448.84 1415.74Z"
+              fill="#FFC000"/>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="55"
+              transform="matrix(1 0 0 1 2159.45 1411)">8
+            <tspan font-size="55" x="238.918" y="0">0</tspan>
+            <tspan font-size="55" x="-238.918" y="0">6</tspan>
+        </text>
+        <path d="M2057.5 1499.5C2057.5 1508.34 2056.9 1515.5 2056.17 1515.5L1835.83 1515.5C1835.1 1515.5 1834.5 1508.34 1834.5 1499.5"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <g clip-path="url(#clip22)">
+            <g clip-path="url(#clip23)">
+                <g clip-path="url(#clip24)">
+                    <path d="M1826.5 1478.92C1851.58 1478.92 1871.92 1458.58 1871.92 1433.5 1871.92 1408.42 1851.58 1388.08 1826.5 1388.08 1801.42 1388.08 1781.08 1408.42 1781.08 1433.5 1781.08 1458.58 1801.42 1478.92 1826.5 1478.92Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linejoin="round"/>
+                    <path d="M1842.4 1458.48C1842.4 1458.48 1837.85 1449.4 1826.5 1449.4 1815.15 1449.4 1810.6 1458.48 1810.6 1458.48"
+                          stroke="#FFFFFF" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M1851.48 1419.88 1835.58 1417.6" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M1846.94 1419.88 1846.94 1440.31" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M1817.42 1417.6 1801.52 1419.88" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M1806.06 1419.88 1806.06 1440.31" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip25)">
+            <g clip-path="url(#clip26)">
+                <g clip-path="url(#clip27)">
+                    <path d="M2065.5 1478.92C2090.58 1478.92 2110.92 1458.58 2110.92 1433.5 2110.92 1408.42 2090.58 1388.08 2065.5 1388.08 2040.42 1388.08 2020.08 1408.42 2020.08 1433.5 2020.08 1458.58 2040.42 1478.92 2065.5 1478.92Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M2020.08 1433.5 2110.92 1433.5" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M2065.5 1478.92C2075.53 1478.92 2083.67 1458.58 2083.67 1433.5 2083.67 1408.42 2075.53 1388.08 2065.5 1388.08 2055.47 1388.08 2047.33 1408.42 2047.33 1433.5 2047.33 1458.58 2055.47 1478.92 2065.5 1478.92Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M2033.39 1402.03C2041.6 1410.25 2052.96 1415.33 2065.5 1415.33 2078.04 1415.33 2089.4 1410.25 2097.61 1402.03"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M2097.61 1464.97C2089.4 1456.75 2078.04 1451.67 2065.5 1451.67 2052.96 1451.67 2041.6 1456.75 2033.39 1464.97"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip28)">
+            <g clip-path="url(#clip29)">
+                <g clip-path="url(#clip30)">
+                    <path d="M99.9166 54.5C99.9166 79.5829 79.5829 99.9166 54.5 99.9166 29.4171 99.9166 9.08333 79.5829 9.08333 54.5 9.08333 29.4171 29.4171 9.08333 54.5 9.08333 79.5829 9.08333 99.9166 29.4171 99.9166 54.5Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1.00917 0 0 1 2488 1379)"/>
+                    <path d="M74.9375 34.0625 34.0625 74.9375" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1.00917 0 0 1 2488 1379)"/>
+                    <path d="M34.0625 34.0625 74.9375 74.9375" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1.00917 0 0 1 2488 1379)"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip31)">
+            <g clip-path="url(#clip32)">
+                <g clip-path="url(#clip33)">
+                    <path d="M54.5 99.9166C79.5829 99.9166 99.9166 79.5829 99.9166 54.5 99.9166 29.417 79.5829 9.08333 54.5 9.08333 29.417 9.08333 9.08333 29.417 9.08333 54.5 9.08333 79.5829 29.417 99.9166 54.5 99.9166Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1 2250 1379)"/>
+                    <path d="M70.3958 40.875 70.3958 43.1458" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1 2250 1379)"/>
+                    <path d="M38.6042 40.875 38.6042 43.1458" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1 2250 1379)"/>
+                    <path d="M70.3958 70.3958C70.3958 70.3958 65.8541 79.4791 54.5 79.4791 43.1458 79.4791 38.6042 70.3958 38.6042 70.3958"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1 0 0 1 2250 1379)"/>
+                </g>
+            </g>
+        </g>
+        <rect x="1781" y="1351" width="91.0001" height="19.9999" fill="#AFABAB"/>
+        <path d="M1792 1362C1792 1359.24 1794.46 1357 1797.5 1357 1800.54 1357 1803 1359.24 1803 1362 1803 1364.76 1800.54 1367 1797.5 1367 1794.46 1367 1792 1364.76 1792 1362Z"
+              fill-rule="evenodd"/>
+        <path d="M1821 1362C1821 1359.24 1823.24 1357 1826 1357 1828.76 1357 1831 1359.24 1831 1362 1831 1364.76 1828.76 1367 1826 1367 1823.24 1367 1821 1364.76 1821 1362Z"
+              fill-rule="evenodd"/>
+        <path d="M1850 1362C1850 1359.24 1852.24 1357 1855 1357 1857.76 1357 1860 1359.24 1860 1362 1860 1364.76 1857.76 1367 1855 1367 1852.24 1367 1850 1364.76 1850 1362Z"
+              fill-rule="evenodd"/>
+        <rect x="2259" y="1351" width="90.9998" height="19.9999" fill="#AFABAB"/>
+        <path d="M2270 1362C2270 1359.24 2272.46 1357 2275.5 1357 2278.54 1357 2281 1359.24 2281 1362 2281 1364.76 2278.54 1367 2275.5 1367 2272.46 1367 2270 1364.76 2270 1362Z"
+              fill-rule="evenodd"/>
+        <path d="M2299 1362C2299 1359.24 2301.24 1357 2304 1357 2306.76 1357 2309 1359.24 2309 1362 2309 1364.76 2306.76 1367 2304 1367 2301.24 1367 2299 1364.76 2299 1362Z"
+              fill-rule="evenodd"/>
+        <path d="M2328 1362C2328 1359.24 2330.24 1357 2333 1357 2335.76 1357 2338 1359.24 2338 1362 2338 1364.76 2335.76 1367 2333 1367 2330.24 1367 2328 1364.76 2328 1362Z"
+              fill-rule="evenodd"/>
+        <path d="M2296.5 1499.5C2296.5 1508.34 2295.9 1515.5 2295.17 1515.5L2074.83 1515.5C2074.1 1515.5 2073.5 1508.34 2073.5 1499.5"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M2535.5 1499.5C2535.5 1508.34 2534.9 1515.5 2534.17 1515.5L2313.83 1515.5C2313.1 1515.5 2312.5 1508.34 2312.5 1499.5"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <rect x="1747" y="1011" width="876" height="225" fill="#7030A0" fill-opacity="0.101961"/>
+        <path d="M1988.74 1127.16 1893 1127.16 1893 1116.84 1988.74 1116.84ZM1970.84 1104.74 1998.47 1122 1970.84 1139.26C1968.43 1140.77 1965.25 1140.04 1963.74 1137.62 1962.23 1135.21 1962.96 1132.03 1965.38 1130.52L1986 1117.63 1986 1126.37 1965.38 1113.48C1962.96 1111.97 1962.23 1108.79 1963.74 1106.38 1965.25 1103.96 1968.43 1103.23 1970.84 1104.74Z"
+              fill="#7030A0"/>
+        <path d="M2227.74 1127.16 2132 1127.16 2132 1116.84 2227.74 1116.84ZM2209.84 1104.74 2237.47 1122 2209.84 1139.26C2207.43 1140.77 2204.25 1140.04 2202.74 1137.62 2201.23 1135.21 2201.96 1132.03 2204.38 1130.52L2225 1117.63 2225 1126.37 2204.38 1113.48C2201.96 1111.97 2201.23 1108.79 2202.74 1106.38 2204.25 1103.96 2207.43 1103.23 2209.84 1104.74Z"
+              fill="#7030A0"/>
+        <path d="M2466.74 1127.16 2371 1127.16 2371 1116.84 2466.74 1116.84ZM2448.84 1104.74 2476.47 1122 2448.84 1139.26C2446.43 1140.77 2443.25 1140.04 2441.74 1137.62 2440.23 1135.21 2440.96 1132.03 2443.38 1130.52L2464 1117.63 2464 1126.37 2443.38 1113.48C2440.96 1111.97 2440.23 1108.79 2441.74 1106.38 2443.25 1103.96 2446.43 1103.23 2448.84 1104.74Z"
+              fill="#7030A0"/>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="55"
+              transform="matrix(1 0 0 1 2159.45 1099)">0
+            <tspan font-size="55" x="238.918" y="0">0</tspan>
+            <tspan font-size="55" x="-238.918" y="0">3</tspan>
+        </text>
+        <path d="M2057.5 1188.5C2057.5 1197.34 2056.9 1204.5 2056.17 1204.5L1835.83 1204.5C1835.1 1204.5 1834.5 1197.34 1834.5 1188.5"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <g clip-path="url(#clip34)">
+            <g clip-path="url(#clip35)">
+                <g clip-path="url(#clip36)">
+                    <path d="M54.5 99.9166C79.5829 99.9166 99.9166 79.5829 99.9166 54.5 99.9166 29.417 79.5829 9.08333 54.5 9.08333 29.417 9.08333 9.08333 29.417 9.08333 54.5 9.08333 79.5829 29.417 99.9166 54.5 99.9166Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linejoin="round"
+                          transform="matrix(1 0 0 1.00917 1772 1067)"/>
+                    <path d="M70.3958 79.4791C70.3958 79.4791 65.8541 70.3958 54.5 70.3958 43.1458 70.3958 38.6042 79.4791 38.6042 79.4791"
+                          stroke="#FFFFFF" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1 0 0 1.00917 1772 1067)"/>
+                    <path d="M79.4791 40.875 63.5833 38.6042" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1.00917 1772 1067)"/>
+                    <path d="M74.9375 40.875 74.9375 61.3125" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1.00917 1772 1067)"/>
+                    <path d="M45.4166 38.6042 29.5208 40.875" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1.00917 1772 1067)"/>
+                    <path d="M34.0625 40.875 34.0625 61.3125" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1.00917 1772 1067)"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip37)">
+            <g clip-path="url(#clip38)">
+                <g clip-path="url(#clip39)">
+                    <path d="M54.5 99.9166C79.5829 99.9166 99.9166 79.5829 99.9166 54.5 99.9166 29.417 79.5829 9.08333 54.5 9.08333 29.417 9.08333 9.08333 29.417 9.08333 54.5 9.08333 79.5829 29.417 99.9166 54.5 99.9166Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd" transform="matrix(1 0 0 1.00917 2011 1067)"/>
+                    <path d="M9.08333 54.5 99.9166 54.5" stroke="#000000" stroke-width="6.8125" stroke-linecap="round"
+                          stroke-linejoin="round" fill="none" transform="matrix(1 0 0 1.00917 2011 1067)"/>
+                    <path d="M54.5 99.9166C64.5332 99.9166 72.6666 79.5829 72.6666 54.5 72.6666 29.417 64.5332 9.08333 54.5 9.08333 44.4668 9.08333 36.3333 29.417 36.3333 54.5 36.3333 79.5829 44.4668 99.9166 54.5 99.9166Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd" transform="matrix(1 0 0 1.00917 2011 1067)"/>
+                    <path d="M22.3857 23.031C30.6045 31.2498 41.9586 36.3333 54.5 36.3333 67.0416 36.3333 78.3957 31.2498 86.6145 23.031"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1 0 0 1.00917 2011 1067)"/>
+                    <path d="M86.6145 85.9689C78.3957 77.7501 67.0416 72.6666 54.5 72.6666 41.9586 72.6666 30.6045 77.7501 22.3857 85.9689"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1 0 0 1.00917 2011 1067)"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip40)">
+            <g clip-path="url(#clip41)">
+                <g clip-path="url(#clip42)">
+                    <path d="M2588.83 1122C2588.83 1147.31 2568.31 1167.83 2543 1167.83 2517.69 1167.83 2497.17 1147.31 2497.17 1122 2497.17 1096.69 2517.69 1076.17 2543 1076.17 2568.31 1076.17 2588.83 1096.69 2588.83 1122Z"
+                          stroke="#000000" stroke-width="6.875" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M2563.62 1101.38 2522.38 1142.62" stroke="#000000" stroke-width="6.875"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M2522.38 1101.38 2563.62 1142.62" stroke="#000000" stroke-width="6.875"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip43)">
+            <g clip-path="url(#clip44)">
+                <g clip-path="url(#clip45)">
+                    <path d="M99.917 54.5002C99.917 79.5832 79.5832 99.917 54.5002 99.917 29.4172 99.917 9.08336 79.5832 9.08336 54.5002 9.08336 29.4172 29.4172 9.08336 54.5002 9.08336 79.5832 9.08336 99.917 29.4172 99.917 54.5002Z"
+                          stroke="#000000" stroke-width="6.81252" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1 0 0 1.00917 2250 1067)"/>
+                    <path d="M74.9377 34.0626 34.0626 74.9377" stroke="#000000" stroke-width="6.81252"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1.00917 2250 1067)"/>
+                    <path d="M34.0626 34.0626 74.9377 74.9377" stroke="#000000" stroke-width="6.81252"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1.00917 2250 1067)"/>
+                </g>
+            </g>
+        </g>
+        <rect x="1781" y="1040" width="91.0001" height="20.0002" fill="#AFABAB"/>
+        <path d="M1792 1050.5C1792 1047.46 1794.46 1045 1797.5 1045 1800.54 1045 1803 1047.46 1803 1050.5 1803 1053.54 1800.54 1056 1797.5 1056 1794.46 1056 1792 1053.54 1792 1050.5Z"
+              fill-rule="evenodd"/>
+        <path d="M1821 1050.5C1821 1047.46 1823.24 1045 1826 1045 1828.76 1045 1831 1047.46 1831 1050.5 1831 1053.54 1828.76 1056 1826 1056 1823.24 1056 1821 1053.54 1821 1050.5Z"
+              fill-rule="evenodd"/>
+        <path d="M1850 1050.5C1850 1047.46 1852.24 1045 1855 1045 1857.76 1045 1860 1047.46 1860 1050.5 1860 1053.54 1857.76 1056 1855 1056 1852.24 1056 1850 1053.54 1850 1050.5Z"
+              fill-rule="evenodd"/>
+        <path d="M2296.5 1188.5C2296.5 1197.34 2295.9 1204.5 2295.17 1204.5L2074.83 1204.5C2074.1 1204.5 2073.5 1197.34 2073.5 1188.5"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M2535.5 1188.5C2535.5 1197.34 2534.9 1204.5 2534.17 1204.5L2313.83 1204.5C2313.1 1204.5 2312.5 1197.34 2312.5 1188.5"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <rect x="1747" y="700" width="876" height="225" fill="#0070C0" fill-opacity="0.101961"/>
+        <path d="M1988.74 816.156 1893 816.156 1893 805.843 1988.74 805.844ZM1970.84 793.737 1998.47 811 1970.84 828.263C1968.43 829.772 1965.25 829.038 1963.74 826.623 1962.23 824.208 1962.96 821.027 1965.38 819.518L1986 806.627 1986 815.372 1965.38 802.482C1962.96 800.972 1962.23 797.791 1963.74 795.376 1965.25 792.961 1968.43 792.227 1970.84 793.737Z"
+              fill="#0070C0"/>
+        <path d="M2227.74 816.156 2132 816.156 2132 805.843 2227.74 805.844ZM2209.84 793.737 2237.47 811 2209.84 828.263C2207.43 829.772 2204.25 829.038 2202.74 826.623 2201.23 824.208 2201.96 821.027 2204.38 819.518L2225 806.627 2225 815.372 2204.38 802.482C2201.96 800.972 2201.23 797.791 2202.74 795.376 2204.25 792.961 2207.43 792.227 2209.84 793.737Z"
+              fill="#0070C0"/>
+        <path d="M2466.74 816.156 2371 816.156 2371 805.843 2466.74 805.844ZM2448.84 793.737 2476.47 811 2448.84 828.263C2446.43 829.772 2443.25 829.038 2441.74 826.623 2440.23 824.208 2440.96 821.027 2443.38 819.518L2464 806.627 2464 815.372 2443.38 802.482C2440.96 800.972 2440.23 797.791 2441.74 795.376 2443.25 792.961 2446.43 792.227 2448.84 793.737Z"
+              fill="#0070C0"/>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="55"
+              transform="matrix(1 0 0 1 2159.45 788)">4
+            <tspan font-size="55" x="238.918" y="0">0</tspan>
+            <tspan font-size="55" x="-238.918" y="0">1</tspan>
+        </text>
+        <path d="M2057.5 876.5C2057.5 885.889 2056.87 893.5 2056.08 893.5L1835.92 893.5C1835.13 893.5 1834.5 885.889 1834.5 876.5"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <g clip-path="url(#clip46)">
+            <g clip-path="url(#clip47)">
+                <g clip-path="url(#clip48)">
+                    <path d="M1826.5 855.917C1851.58 855.917 1871.92 835.583 1871.92 810.5 1871.92 785.417 1851.58 765.083 1826.5 765.083 1801.42 765.083 1781.08 785.417 1781.08 810.5 1781.08 835.583 1801.42 855.917 1826.5 855.917Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linejoin="round"/>
+                    <path d="M1842.4 835.479C1842.4 835.479 1837.85 826.396 1826.5 826.396 1815.15 826.396 1810.6 835.479 1810.6 835.479"
+                          stroke="#FFFFFF" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M1851.48 796.875 1835.58 794.604" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M1846.94 796.875 1846.94 817.312" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M1817.42 794.604 1801.52 796.875" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M1806.06 796.875 1806.06 817.312" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip49)">
+            <g clip-path="url(#clip50)">
+                <g clip-path="url(#clip51)">
+                    <path d="M2065.5 855.917C2090.58 855.917 2110.92 835.583 2110.92 810.5 2110.92 785.417 2090.58 765.083 2065.5 765.083 2040.42 765.083 2020.08 785.417 2020.08 810.5 2020.08 835.583 2040.42 855.917 2065.5 855.917Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linejoin="round" fill="none"/>
+                    <path d="M2081.4 796.875 2081.4 799.146" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M2049.6 796.875 2049.6 799.146" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M2081.4 826.396C2081.4 826.396 2076.85 835.479 2065.5 835.479 2054.15 835.479 2049.6 826.396 2049.6 826.396"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip52)">
+            <g clip-path="url(#clip53)">
+                <g clip-path="url(#clip54)">
+                    <path d="M99.9166 54.5C99.9166 79.5829 79.5829 99.9166 54.5 99.9166 29.4171 99.9166 9.08333 79.5829 9.08333 54.5 9.08333 29.4171 29.4171 9.08333 54.5 9.08333 79.5829 9.08333 99.9166 29.4171 99.9166 54.5Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1.00917 0 0 1 2488 756)"/>
+                    <path d="M74.9375 34.0625 34.0625 74.9375" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1.00917 0 0 1 2488 756)"/>
+                    <path d="M34.0625 34.0625 74.9375 74.9375" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1.00917 0 0 1 2488 756)"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip55)">
+            <g clip-path="url(#clip56)">
+                <g clip-path="url(#clip57)">
+                    <path d="M54.5 99.9166C79.5829 99.9166 99.9166 79.5829 99.9166 54.5 99.9166 29.417 79.5829 9.08333 54.5 9.08333 29.417 9.08333 9.08333 29.417 9.08333 54.5 9.08333 79.5829 29.417 99.9166 54.5 99.9166Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd" transform="matrix(1 0 0 1 2250 756)"/>
+                    <path d="M9.08333 54.5 99.9166 54.5" stroke="#000000" stroke-width="6.8125" stroke-linecap="round"
+                          stroke-linejoin="round" fill="none" transform="matrix(1 0 0 1 2250 756)"/>
+                    <path d="M54.5 99.9166C64.5332 99.9166 72.6666 79.5829 72.6666 54.5 72.6666 29.417 64.5332 9.08333 54.5 9.08333 44.4668 9.08333 36.3333 29.417 36.3333 54.5 36.3333 79.5829 44.4668 99.9166 54.5 99.9166Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd" transform="matrix(1 0 0 1 2250 756)"/>
+                    <path d="M22.3857 23.031C30.6045 31.2498 41.9586 36.3333 54.5 36.3333 67.0416 36.3333 78.3957 31.2498 86.6145 23.031"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1 0 0 1 2250 756)"/>
+                    <path d="M86.6145 85.9689C78.3957 77.7501 67.0416 72.6666 54.5 72.6666 41.9586 72.6666 30.6045 77.7501 22.3857 85.9689"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1 0 0 1 2250 756)"/>
+                </g>
+            </g>
+        </g>
+        <rect x="1781" y="729" width="91.0001" height="18.9999" fill="#AFABAB"/>
+        <path d="M1792 739C1792 736.238 1794.46 734 1797.5 734 1800.54 734 1803 736.238 1803 739 1803 741.761 1800.54 744 1797.5 744 1794.46 744 1792 741.761 1792 739Z"
+              fill-rule="evenodd"/>
+        <path d="M1821 739C1821 736.238 1823.24 734 1826 734 1828.76 734 1831 736.238 1831 739 1831 741.761 1828.76 744 1826 744 1823.24 744 1821 741.761 1821 739Z"
+              fill-rule="evenodd"/>
+        <path d="M1850 739C1850 736.238 1852.24 734 1855 734 1857.76 734 1860 736.238 1860 739 1860 741.761 1857.76 744 1855 744 1852.24 744 1850 741.761 1850 739Z"
+              fill-rule="evenodd"/>
+        <rect x="2020" y="729" width="91.0001" height="18.9999" fill="#AFABAB"/>
+        <path d="M2031 739C2031 736.238 2033.46 734 2036.5 734 2039.54 734 2042 736.238 2042 739 2042 741.761 2039.54 744 2036.5 744 2033.46 744 2031 741.761 2031 739Z"
+              fill-rule="evenodd"/>
+        <path d="M2060 739C2060 736.238 2062.24 734 2065 734 2067.76 734 2070 736.238 2070 739 2070 741.761 2067.76 744 2065 744 2062.24 744 2060 741.761 2060 739Z"
+              fill-rule="evenodd"/>
+        <path d="M2089 739C2089 736.238 2091.24 734 2094 734 2096.76 734 2099 736.238 2099 739 2099 741.761 2096.76 744 2094 744 2091.24 744 2089 741.761 2089 739Z"
+              fill-rule="evenodd"/>
+        <path d="M2296.5 876.5C2296.5 885.889 2295.87 893.5 2295.08 893.5L2074.92 893.5C2074.13 893.5 2073.5 885.889 2073.5 876.5"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M2535.5 876.5C2535.5 885.889 2534.87 893.5 2534.08 893.5L2313.92 893.5C2313.13 893.5 2312.5 885.889 2312.5 876.5"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <rect x="1747" y="389" width="876" height="225" fill="#00B050" fill-opacity="0.101961"/>
+        <path d="M1988.74 504.156 1893 504.156 1893 493.844 1988.74 493.844ZM1970.84 481.737 1998.47 499 1970.84 516.263C1968.43 517.772 1965.25 517.038 1963.74 514.623 1962.23 512.209 1962.96 509.027 1965.38 507.518L1986 494.628 1986 503.373 1965.38 490.482C1962.96 488.973 1962.23 485.791 1963.74 483.377 1965.25 480.962 1968.43 480.228 1970.84 481.737Z"
+              fill="#00B050"/>
+        <path d="M2227.74 504.156 2132 504.156 2132 493.844 2227.74 493.844ZM2209.84 481.737 2237.47 499 2209.84 516.263C2207.43 517.772 2204.25 517.038 2202.74 514.623 2201.23 512.209 2201.96 509.027 2204.38 507.518L2225 494.628 2225 503.373 2204.38 490.482C2201.96 488.973 2201.23 485.791 2202.74 483.377 2204.25 480.962 2207.43 480.228 2209.84 481.737Z"
+              fill="#00B050"/>
+        <path d="M2466.74 504.156 2371 504.156 2371 493.844 2466.74 493.844ZM2448.84 481.737 2476.47 499 2448.84 516.263C2446.43 517.772 2443.25 517.038 2441.74 514.623 2440.23 512.209 2440.96 509.027 2443.38 507.518L2464 494.628 2464 503.373 2443.38 490.482C2440.96 488.973 2440.23 485.791 2441.74 483.377 2443.25 480.962 2446.43 480.228 2448.84 481.737Z"
+              fill="#00B050"/>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="55"
+              transform="matrix(1 0 0 1 2159.45 477)">5
+            <tspan font-size="55" x="238.918" y="0">0</tspan>
+            <tspan font-size="55" x="-238.918" y="0">7</tspan>
+        </text>
+        <path d="M2057.5 565.5C2057.5 574.337 2056.9 581.5 2056.17 581.5L1835.83 581.5C1835.1 581.5 1834.5 574.337 1834.5 565.5"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <g clip-path="url(#clip58)">
+            <g clip-path="url(#clip59)">
+                <g clip-path="url(#clip60)">
+                    <path d="M1826.5 544.917C1851.58 544.917 1871.92 524.583 1871.92 499.5 1871.92 474.417 1851.58 454.083 1826.5 454.083 1801.42 454.083 1781.08 474.417 1781.08 499.5 1781.08 524.583 1801.42 544.917 1826.5 544.917Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linejoin="round"/>
+                    <path d="M1842.4 524.479C1842.4 524.479 1837.85 515.396 1826.5 515.396 1815.15 515.396 1810.6 524.479 1810.6 524.479"
+                          stroke="#FFFFFF" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M1851.48 485.875 1835.58 483.604" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M1846.94 485.875 1846.94 506.313" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M1817.42 483.604 1801.52 485.875" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M1806.06 485.875 1806.06 506.313" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip61)">
+            <g clip-path="url(#clip62)">
+                <g clip-path="url(#clip63)">
+                    <path d="M2065.5 544.917C2090.58 544.917 2110.92 524.583 2110.92 499.5 2110.92 474.417 2090.58 454.083 2065.5 454.083 2040.42 454.083 2020.08 474.417 2020.08 499.5 2020.08 524.583 2040.42 544.917 2065.5 544.917Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M2020.08 499.5 2110.92 499.5" stroke="#000000" stroke-width="6.8125" stroke-linecap="round"
+                          stroke-linejoin="round" fill="none"/>
+                    <path d="M2065.5 544.917C2075.53 544.917 2083.67 524.583 2083.67 499.5 2083.67 474.417 2075.53 454.083 2065.5 454.083 2055.47 454.083 2047.33 474.417 2047.33 499.5 2047.33 524.583 2055.47 544.917 2065.5 544.917Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M2033.39 468.031C2041.6 476.25 2052.96 481.333 2065.5 481.333 2078.04 481.333 2089.4 476.25 2097.61 468.031"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M2097.61 530.969C2089.4 522.75 2078.04 517.667 2065.5 517.667 2052.96 517.667 2041.6 522.75 2033.39 530.969"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip64)">
+            <g clip-path="url(#clip65)">
+                <g clip-path="url(#clip66)">
+                    <path d="M99.9166 54.5C99.9166 79.5829 79.5829 99.9166 54.5 99.9166 29.4171 99.9166 9.08333 79.5829 9.08333 54.5 9.08333 29.4171 29.4171 9.08333 54.5 9.08333 79.5829 9.08333 99.9166 29.4171 99.9166 54.5Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1.00917 0 0 1 2488 445)"/>
+                    <path d="M74.9375 34.0625 34.0625 74.9375" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1.00917 0 0 1 2488 445)"/>
+                    <path d="M34.0625 34.0625 74.9375 74.9375" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1.00917 0 0 1 2488 445)"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip67)">
+            <g clip-path="url(#clip68)">
+                <g clip-path="url(#clip69)">
+                    <path d="M54.5 99.9166C79.5829 99.9166 99.9166 79.5829 99.9166 54.5 99.9166 29.417 79.5829 9.08333 54.5 9.08333 29.417 9.08333 9.08333 29.417 9.08333 54.5 9.08333 79.5829 29.417 99.9166 54.5 99.9166Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linejoin="round"
+                          transform="matrix(1 0 0 1 2250 445)"/>
+                    <path d="M70.3958 79.4791C70.3958 79.4791 65.8541 70.3958 54.5 70.3958 43.1458 70.3958 38.6042 79.4791 38.6042 79.4791"
+                          stroke="#FFFFFF" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1 0 0 1 2250 445)"/>
+                    <path d="M79.4791 40.875 63.5833 38.6042" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1 2250 445)"/>
+                    <path d="M74.9375 40.875 74.9375 61.3125" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1 2250 445)"/>
+                    <path d="M45.4166 38.6042 29.5208 40.875" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1 2250 445)"/>
+                    <path d="M34.0625 40.875 34.0625 61.3125" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1 2250 445)"/>
+                </g>
+            </g>
+        </g>
+        <rect x="1781" y="418" width="91.0001" height="18.9999" fill="#AFABAB"/>
+        <path d="M1792 428C1792 425.239 1794.46 423 1797.5 423 1800.54 423 1803 425.239 1803 428 1803 430.762 1800.54 433 1797.5 433 1794.46 433 1792 430.762 1792 428Z"
+              fill-rule="evenodd"/>
+        <path d="M1821 428C1821 425.239 1823.24 423 1826 423 1828.76 423 1831 425.239 1831 428 1831 430.762 1828.76 433 1826 433 1823.24 433 1821 430.762 1821 428Z"
+              fill-rule="evenodd"/>
+        <path d="M1850 428C1850 425.239 1852.24 423 1855 423 1857.76 423 1860 425.239 1860 428 1860 430.762 1857.76 433 1855 433 1852.24 433 1850 430.762 1850 428Z"
+              fill-rule="evenodd"/>
+        <rect x="2259" y="418" width="90.9998" height="18.9999" fill="#AFABAB"/>
+        <path d="M2270 428C2270 425.239 2272.46 423 2275.5 423 2278.54 423 2281 425.239 2281 428 2281 430.762 2278.54 433 2275.5 433 2272.46 433 2270 430.762 2270 428Z"
+              fill-rule="evenodd"/>
+        <path d="M2299 428C2299 425.239 2301.24 423 2304 423 2306.76 423 2309 425.239 2309 428 2309 430.762 2306.76 433 2304 433 2301.24 433 2299 430.762 2299 428Z"
+              fill-rule="evenodd"/>
+        <path d="M2328 428C2328 425.239 2330.24 423 2333 423 2335.76 423 2338 425.239 2338 428 2338 430.762 2335.76 433 2333 433 2330.24 433 2328 430.762 2328 428Z"
+              fill-rule="evenodd"/>
+        <path d="M2296.5 565.5C2296.5 574.337 2295.9 581.5 2295.17 581.5L2074.83 581.5C2074.1 581.5 2073.5 574.337 2073.5 565.5"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M2535.5 565.5C2535.5 574.337 2534.9 581.5 2534.17 581.5L2313.83 581.5C2313.1 581.5 2312.5 574.337 2312.5 565.5"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <rect x="1747" y="77" width="876" height="225" fill="#C00000" fill-opacity="0.101961"/>
+        <path d="M1988.74 193.156 1893 193.156 1893 182.843 1988.74 182.844ZM1970.84 170.737 1998.47 188 1970.84 205.263C1968.43 206.772 1965.25 206.038 1963.74 203.623 1962.23 201.208 1962.96 198.027 1965.38 196.518L1986 183.628 1986 192.372 1965.38 179.482C1962.96 177.972 1962.23 174.791 1963.74 172.376 1965.25 169.962 1968.43 169.228 1970.84 170.737Z"
+              fill="#C00000"/>
+        <path d="M2227.74 193.156 2132 193.156 2132 182.843 2227.74 182.844ZM2209.84 170.737 2237.47 188 2209.84 205.263C2207.43 206.772 2204.25 206.038 2202.74 203.623 2201.23 201.208 2201.96 198.027 2204.38 196.518L2225 183.628 2225 192.372 2204.38 179.482C2201.96 177.972 2201.23 174.791 2202.74 172.376 2204.25 169.962 2207.43 169.228 2209.84 170.737Z"
+              fill="#C00000"/>
+        <path d="M2466.74 193.156 2371 193.156 2371 182.843 2466.74 182.844ZM2448.84 170.737 2476.47 188 2448.84 205.263C2446.43 206.772 2443.25 206.038 2441.74 203.623 2440.23 201.208 2440.96 198.027 2443.38 196.518L2464 183.628 2464 192.372 2443.38 179.482C2440.96 177.972 2440.23 174.791 2441.74 172.376 2443.25 169.962 2446.43 169.228 2448.84 170.737Z"
+              fill="#C00000"/>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="55"
+              transform="matrix(1 0 0 1 2159.45 165)">9
+            <tspan font-size="55" x="238.918" y="0">2</tspan>
+            <tspan font-size="55" x="-238.918" y="0">6</tspan>
+        </text>
+        <path d="M2057.5 254.5C2057.5 263.337 2056.9 270.5 2056.17 270.5L1835.83 270.5C1835.1 270.5 1834.5 263.337 1834.5 254.5"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <g clip-path="url(#clip70)">
+            <g clip-path="url(#clip71)">
+                <g clip-path="url(#clip72)">
+                    <path d="M54.5 99.9166C79.5829 99.9166 99.9166 79.5829 99.9166 54.5 99.9166 29.417 79.5829 9.08333 54.5 9.08333 29.417 9.08333 9.08333 29.417 9.08333 54.5 9.08333 79.5829 29.417 99.9166 54.5 99.9166Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linejoin="round"
+                          transform="matrix(1 0 0 1.00917 1772 133)"/>
+                    <path d="M70.3958 79.4791C70.3958 79.4791 65.8541 70.3958 54.5 70.3958 43.1458 70.3958 38.6042 79.4791 38.6042 79.4791"
+                          stroke="#FFFFFF" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1 0 0 1.00917 1772 133)"/>
+                    <path d="M79.4791 40.875 63.5833 38.6042" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1.00917 1772 133)"/>
+                    <path d="M74.9375 40.875 74.9375 61.3125" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1.00917 1772 133)"/>
+                    <path d="M45.4166 38.6042 29.5208 40.875" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1.00917 1772 133)"/>
+                    <path d="M34.0625 40.875 34.0625 61.3125" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1.00917 1772 133)"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip73)">
+            <g clip-path="url(#clip74)">
+                <g clip-path="url(#clip75)">
+                    <path d="M54.5 99.9166C79.5829 99.9166 99.9166 79.5829 99.9166 54.5 99.9166 29.417 79.5829 9.08333 54.5 9.08333 29.417 9.08333 9.08333 29.417 9.08333 54.5 9.08333 79.5829 29.417 99.9166 54.5 99.9166Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd" transform="matrix(1 0 0 1.00917 2011 133)"/>
+                    <path d="M9.08333 54.5 99.9166 54.5" stroke="#000000" stroke-width="6.8125" stroke-linecap="round"
+                          stroke-linejoin="round" fill="none" transform="matrix(1 0 0 1.00917 2011 133)"/>
+                    <path d="M54.5 99.9166C64.5332 99.9166 72.6666 79.5829 72.6666 54.5 72.6666 29.417 64.5332 9.08333 54.5 9.08333 44.4668 9.08333 36.3333 29.417 36.3333 54.5 36.3333 79.5829 44.4668 99.9166 54.5 99.9166Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd" transform="matrix(1 0 0 1.00917 2011 133)"/>
+                    <path d="M22.3857 23.031C30.6045 31.2498 41.9586 36.3333 54.5 36.3333 67.0416 36.3333 78.3957 31.2498 86.6145 23.031"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1 0 0 1.00917 2011 133)"/>
+                    <path d="M86.6145 85.9689C78.3957 77.7501 67.0416 72.6666 54.5 72.6666 41.9586 72.6666 30.6045 77.7501 22.3857 85.9689"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1 0 0 1.00917 2011 133)"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip76)">
+            <g clip-path="url(#clip77)">
+                <g clip-path="url(#clip78)">
+                    <path d="M2543 233.833C2568.31 233.833 2588.83 213.313 2588.83 188 2588.83 162.687 2568.31 142.167 2543 142.167 2517.69 142.167 2497.17 162.687 2497.17 188 2497.17 213.313 2517.69 233.833 2543 233.833Z"
+                          stroke="#000000" stroke-width="6.875" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M2497.17 188 2588.83 188" stroke="#000000" stroke-width="6.875" stroke-linecap="round"
+                          stroke-linejoin="round" fill="none"/>
+                    <path d="M2543 233.833C2553.13 233.833 2561.33 213.313 2561.33 188 2561.33 162.687 2553.13 142.167 2543 142.167 2532.87 142.167 2524.67 162.687 2524.67 188 2524.67 213.313 2532.87 233.833 2543 233.833Z"
+                          stroke="#000000" stroke-width="6.875" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M2510.59 156.242C2518.89 164.537 2530.34 169.667 2543 169.667 2555.66 169.667 2567.11 164.537 2575.41 156.242"
+                          stroke="#000000" stroke-width="6.875" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M2575.41 219.758C2567.11 211.464 2555.66 206.333 2543 206.333 2530.34 206.333 2518.89 211.464 2510.59 219.758"
+                          stroke="#000000" stroke-width="6.875" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip79)">
+            <g clip-path="url(#clip80)">
+                <g clip-path="url(#clip81)">
+                    <path d="M54.5002 99.917C79.5832 99.917 99.917 79.5832 99.917 54.5002 99.917 29.4171 79.5832 9.08336 54.5002 9.08336 29.4171 9.08336 9.08336 29.4171 9.08336 54.5002 9.08336 79.5832 29.4171 99.917 54.5002 99.917Z"
+                          stroke="#000000" stroke-width="6.81252" stroke-linejoin="round"
+                          transform="matrix(1 0 0 1.00917 2250 133)"/>
+                    <path d="M70.396 79.4794C70.396 79.4794 65.8544 70.396 54.5002 70.396 43.146 70.396 38.6043 79.4794 38.6043 79.4794"
+                          stroke="#FFFFFF" stroke-width="6.81252" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1 0 0 1.00917 2250 133)"/>
+                    <path d="M79.4794 40.8751 63.5835 38.6043" stroke="#FFFFFF" stroke-width="6.81252"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1.00917 2250 133)"/>
+                    <path d="M74.9377 40.8751 74.9377 61.3127" stroke="#FFFFFF" stroke-width="6.81252"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1.00917 2250 133)"/>
+                    <path d="M45.4168 38.6043 29.5209 40.8751" stroke="#FFFFFF" stroke-width="6.81252"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1.00917 2250 133)"/>
+                    <path d="M34.0626 40.8751 34.0626 61.3127" stroke="#FFFFFF" stroke-width="6.81252"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1.00917 2250 133)"/>
+                </g>
+            </g>
+        </g>
+        <rect x="1781" y="106" width="91.0001" height="20.0003" fill="#AFABAB"/>
+        <path d="M1792 116.5C1792 113.462 1794.46 111 1797.5 111 1800.54 111 1803 113.462 1803 116.5 1803 119.538 1800.54 122 1797.5 122 1794.46 122 1792 119.538 1792 116.5Z"
+              fill-rule="evenodd"/>
+        <path d="M1821 116.5C1821 113.462 1823.24 111 1826 111 1828.76 111 1831 113.462 1831 116.5 1831 119.538 1828.76 122 1826 122 1823.24 122 1821 119.538 1821 116.5Z"
+              fill-rule="evenodd"/>
+        <path d="M1850 116.5C1850 113.462 1852.24 111 1855 111 1857.76 111 1860 113.462 1860 116.5 1860 119.538 1857.76 122 1855 122 1852.24 122 1850 119.538 1850 116.5Z"
+              fill-rule="evenodd"/>
+        <rect x="2259" y="106" width="90.9998" height="20.0003" fill="#AFABAB"/>
+        <path d="M2270 116.5C2270 113.462 2272.46 111 2275.5 111 2278.54 111 2281 113.462 2281 116.5 2281 119.538 2278.54 122 2275.5 122 2272.46 122 2270 119.538 2270 116.5Z"
+              fill-rule="evenodd"/>
+        <path d="M2299 116.5C2299 113.462 2301.24 111 2304 111 2306.76 111 2309 113.462 2309 116.5 2309 119.538 2306.76 122 2304 122 2301.24 122 2299 119.538 2299 116.5Z"
+              fill-rule="evenodd"/>
+        <path d="M2328 116.5C2328 113.462 2330.24 111 2333 111 2335.76 111 2338 113.462 2338 116.5 2338 119.538 2335.76 122 2333 122 2330.24 122 2328 119.538 2328 116.5Z"
+              fill-rule="evenodd"/>
+        <path d="M2296.5 254.5C2296.5 263.337 2295.9 270.5 2295.17 270.5L2074.83 270.5C2074.1 270.5 2073.5 263.337 2073.5 254.5"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M2535.5 254.5C2535.5 263.337 2534.9 270.5 2534.17 270.5L2313.83 270.5C2313.1 270.5 2312.5 263.337 2312.5 254.5"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M2790.75 226.5 2790.75 208.25 2673.5 208.25 2673.5 171.75 2790.75 171.75 2790.75 153.5 2838.5 190Z"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="73"
+              transform="matrix(1 0 0 1 1635.8 216)">#A
+        </text>
+        <g clip-path="url(#clip82)">
+            <g clip-path="url(#clip83)">
+                <g clip-path="url(#clip84)">
+                    <path d="M2562.92 1946.5C2562.92 1971.58 2542.58 1991.92 2517.5 1991.92 2492.42 1991.92 2472.08 1971.58 2472.08 1946.5 2472.08 1921.42 2492.42 1901.08 2517.5 1901.08 2542.58 1901.08 2562.92 1921.42 2562.92 1946.5Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M2537.94 1926.06 2497.06 1966.94" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M2497.06 1926.06 2537.94 1966.94" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                </g>
+            </g>
+        </g>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="83"
+              transform="matrix(1 0 0 1 2599.13 1976)">Padding
+            <tspan font-size="83" x="-2264.53" y="-880">#B</tspan>
+        </text>
+        <path d="M989.5 448.5 1081.56 571.669" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd"/>
+        <path d="M0 0 130.855 111.37" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd" transform="matrix(-1 0 0 1 1066.35 679.5)"/>
+        <path d="M932.5 879.5 1097.73 995.406" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd"/>
+        <path d="M0 0 37.1391 252.722" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd" transform="matrix(-1 0 0 1 866.639 912.5)"/>
+        <path d="M0 0 129.041 97.7011" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd" transform="matrix(-1 0 0 1 773.541 1271.5)"/>
+        <path d="M0 0 144.379 101.27" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd" transform="matrix(1 0 0 -1 661.5 980.771)"/>
+        <path d="M712.5 685.5 818.621 783.147" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd"/>
+        <path d="M551.5 456.5 630.374 572.038" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd"/>
+        <path d="M0 0 126.685 124.742" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd" transform="matrix(-1 0 0 1 682.185 216.5)"/>
+        <path d="M0 0 104.823 81.8049" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd" transform="matrix(1 0 0 -1 442.5 1134.3)"/>
+        <g clip-path="url(#clip85)">
+            <g clip-path="url(#clip86)">
+                <g clip-path="url(#clip87)">
+                    <path d="M1109.5 675.917C1134.58 675.917 1154.92 655.583 1154.92 630.5 1154.92 605.417 1134.58 585.083 1109.5 585.083 1084.42 585.083 1064.08 605.417 1064.08 630.5 1064.08 655.583 1084.42 675.917 1109.5 675.917Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M1064.08 630.5 1154.92 630.5" stroke="#000000" stroke-width="6.8125" stroke-linecap="round"
+                          stroke-linejoin="round" fill="none"/>
+                    <path d="M1109.5 675.917C1119.53 675.917 1127.67 655.583 1127.67 630.5 1127.67 605.417 1119.53 585.083 1109.5 585.083 1099.47 585.083 1091.33 605.417 1091.33 630.5 1091.33 655.583 1099.47 675.917 1109.5 675.917Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M1077.39 599.031C1085.6 607.25 1096.96 612.333 1109.5 612.333 1122.04 612.333 1133.4 607.25 1141.61 599.031"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M1141.61 661.969C1133.4 653.75 1122.04 648.667 1109.5 648.667 1096.96 648.667 1085.6 653.75 1077.39 661.969"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip88)">
+            <g clip-path="url(#clip89)">
+                <g clip-path="url(#clip90)">
+                    <path d="M54.5 99.9166C79.5829 99.9166 99.9166 79.5829 99.9166 54.5 99.9166 29.417 79.5829 9.08333 54.5 9.08333 29.417 9.08333 9.08333 29.417 9.08333 54.5 9.08333 79.5829 29.417 99.9166 54.5 99.9166Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1 771 1172)"/>
+                    <path d="M70.3958 40.875 70.3958 43.1458" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1 771 1172)"/>
+                    <path d="M38.6042 40.875 38.6042 43.1458" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1 771 1172)"/>
+                    <path d="M70.3958 70.3958C70.3958 70.3958 65.8541 79.4791 54.5 79.4791 43.1458 79.4791 38.6042 70.3958 38.6042 70.3958"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1 0 0 1 771 1172)"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip91)">
+            <g clip-path="url(#clip92)">
+                <g clip-path="url(#clip93)">
+                    <path d="M604 1057.83C629.313 1057.83 649.833 1037.31 649.833 1012 649.833 986.687 629.313 966.167 604 966.167 578.687 966.167 558.167 986.687 558.167 1012 558.167 1037.31 578.687 1057.83 604 1057.83Z"
+                          stroke="#000000" stroke-width="6.875" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M558.167 1012 649.833 1012" stroke="#000000" stroke-width="6.875" stroke-linecap="round"
+                          stroke-linejoin="round" fill="none"/>
+                    <path d="M604 1057.83C614.125 1057.83 622.333 1037.31 622.333 1012 622.333 986.687 614.125 966.167 604 966.167 593.875 966.167 585.667 986.687 585.667 1012 585.667 1037.31 593.875 1057.83 604 1057.83Z"
+                          stroke="#000000" stroke-width="6.875" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M571.591 980.242C579.885 988.537 591.344 993.667 604 993.667 616.657 993.667 628.115 988.537 636.409 980.242"
+                          stroke="#000000" stroke-width="6.875" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M636.409 1043.76C628.115 1035.46 616.657 1030.33 604 1030.33 591.344 1030.33 579.885 1035.46 571.591 1043.76"
+                          stroke="#000000" stroke-width="6.875" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip94)">
+            <g clip-path="url(#clip95)">
+                <g clip-path="url(#clip96)">
+                    <path d="M587.5 1442.92C612.583 1442.92 632.917 1422.58 632.917 1397.5 632.917 1372.42 612.583 1352.08 587.5 1352.08 562.417 1352.08 542.083 1372.42 542.083 1397.5 542.083 1422.58 562.417 1442.92 587.5 1442.92Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M542.083 1397.5 632.917 1397.5" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M587.5 1442.92C597.533 1442.92 605.667 1422.58 605.667 1397.5 605.667 1372.42 597.533 1352.08 587.5 1352.08 577.467 1352.08 569.333 1372.42 569.333 1397.5 569.333 1422.58 577.467 1442.92 587.5 1442.92Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M555.386 1366.03C563.605 1374.25 574.959 1379.33 587.5 1379.33 600.042 1379.33 611.396 1374.25 619.615 1366.03"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M619.615 1428.97C611.396 1420.75 600.042 1415.67 587.5 1415.67 574.959 1415.67 563.605 1420.75 555.386 1428.97"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip97)">
+            <g clip-path="url(#clip98)">
+                <g clip-path="url(#clip99)">
+                    <path d="M54.5 99.9166C79.5829 99.9166 99.9166 79.5829 99.9166 54.5 99.9166 29.417 79.5829 9.08333 54.5 9.08333 29.417 9.08333 9.08333 29.417 9.08333 54.5 9.08333 79.5829 29.417 99.9166 54.5 99.9166Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linejoin="round"
+                          transform="matrix(1 0 0 1 342 1128)"/>
+                    <path d="M70.3958 79.4791C70.3958 79.4791 65.8541 70.3958 54.5 70.3958 43.1458 70.3958 38.6042 79.4791 38.6042 79.4791"
+                          stroke="#FFFFFF" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1 0 0 1 342 1128)"/>
+                    <path d="M79.4791 40.875 63.5833 38.6042" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1 342 1128)"/>
+                    <path d="M74.9375 40.875 74.9375 61.3125" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1 342 1128)"/>
+                    <path d="M45.4166 38.6042 29.5208 40.875" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1 342 1128)"/>
+                    <path d="M34.0625 40.875 34.0625 61.3125" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1 342 1128)"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip100)">
+            <g clip-path="url(#clip101)">
+                <g clip-path="url(#clip102)">
+                    <path d="M1043.5 1385.92C1068.58 1385.92 1088.92 1365.58 1088.92 1340.5 1088.92 1315.42 1068.58 1295.08 1043.5 1295.08 1018.42 1295.08 998.083 1315.42 998.083 1340.5 998.083 1365.58 1018.42 1385.92 1043.5 1385.92Z"
+                          stroke="#999999" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M998.083 1340.5 1088.92 1340.5" stroke="#999999" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M1043.5 1385.92C1053.53 1385.92 1061.67 1365.58 1061.67 1340.5 1061.67 1315.42 1053.53 1295.08 1043.5 1295.08 1033.47 1295.08 1025.33 1315.42 1025.33 1340.5 1025.33 1365.58 1033.47 1385.92 1043.5 1385.92Z"
+                          stroke="#999999" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M1011.39 1309.03C1019.6 1317.25 1030.96 1322.33 1043.5 1322.33 1056.04 1322.33 1067.4 1317.25 1075.61 1309.03"
+                          stroke="#999999" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M1075.61 1371.97C1067.4 1363.75 1056.04 1358.67 1043.5 1358.67 1030.96 1358.67 1019.6 1363.75 1011.39 1371.97"
+                          stroke="#999999" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip103)">
+            <g clip-path="url(#clip104)">
+                <g clip-path="url(#clip105)">
+                    <path d="M1152.5 1074.92C1177.58 1074.92 1197.92 1054.58 1197.92 1029.5 1197.92 1004.42 1177.58 984.083 1152.5 984.083 1127.42 984.083 1107.08 1004.42 1107.08 1029.5 1107.08 1054.58 1127.42 1074.92 1152.5 1074.92Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M1107.08 1029.5 1197.92 1029.5" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M1152.5 1074.92C1162.53 1074.92 1170.67 1054.58 1170.67 1029.5 1170.67 1004.42 1162.53 984.083 1152.5 984.083 1142.47 984.083 1134.33 1004.42 1134.33 1029.5 1134.33 1054.58 1142.47 1074.92 1152.5 1074.92Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M1120.39 998.031C1128.6 1006.25 1139.96 1011.33 1152.5 1011.33 1165.04 1011.33 1176.4 1006.25 1184.61 998.031"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M1184.61 1060.97C1176.4 1052.75 1165.04 1047.67 1152.5 1047.67 1139.96 1047.67 1128.6 1052.75 1120.39 1060.97"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip106)">
+            <g clip-path="url(#clip107)">
+                <g clip-path="url(#clip108)">
+                    <path d="M668.5 675.917C693.583 675.917 713.917 655.583 713.917 630.5 713.917 605.417 693.583 585.083 668.5 585.083 643.417 585.083 623.083 605.417 623.083 630.5 623.083 655.583 643.417 675.917 668.5 675.917Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M623.083 630.5 713.917 630.5" stroke="#000000" stroke-width="6.8125" stroke-linecap="round"
+                          stroke-linejoin="round" fill="none"/>
+                    <path d="M668.5 675.917C678.533 675.917 686.667 655.583 686.667 630.5 686.667 605.417 678.533 585.083 668.5 585.083 658.467 585.083 650.333 605.417 650.333 630.5 650.333 655.583 658.467 675.917 668.5 675.917Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M636.386 599.031C644.604 607.25 655.959 612.333 668.5 612.333 681.042 612.333 692.396 607.25 700.615 599.031"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M700.615 661.969C692.396 653.75 681.042 648.667 668.5 648.667 655.959 648.667 644.604 653.75 636.386 661.969"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip109)">
+            <g clip-path="url(#clip110)">
+                <g clip-path="url(#clip111)">
+                    <path d="M518.5 443.917C543.583 443.917 563.917 423.583 563.917 398.5 563.917 373.417 543.583 353.083 518.5 353.083 493.417 353.083 473.083 373.417 473.083 398.5 473.083 423.583 493.417 443.917 518.5 443.917Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linejoin="round"/>
+                    <path d="M534.396 423.479C534.396 423.479 529.854 414.396 518.5 414.396 507.146 414.396 502.604 423.479 502.604 423.479"
+                          stroke="#FFFFFF" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M543.479 384.875 527.583 382.604" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M538.938 384.875 538.938 405.313" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M509.417 382.604 493.521 384.875" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M498.063 384.875 498.063 405.313" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip112)">
+            <g clip-path="url(#clip113)">
+                <g clip-path="url(#clip114)">
+                    <path d="M400.5 794.917C425.583 794.917 445.917 774.583 445.917 749.5 445.917 724.417 425.583 704.083 400.5 704.083 375.417 704.083 355.083 724.417 355.083 749.5 355.083 774.583 375.417 794.917 400.5 794.917Z"
+                          stroke="#999999" stroke-width="6.8125" stroke-linejoin="round" fill="none"/>
+                    <path d="M416.396 735.875 416.396 738.146" stroke="#999999" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M384.604 735.875 384.604 738.146" stroke="#999999" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M416.396 765.396C416.396 765.396 411.854 774.479 400.5 774.479 389.146 774.479 384.604 765.396 384.604 765.396"
+                          stroke="#999999" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip115)">
+            <g clip-path="url(#clip116)">
+                <g clip-path="url(#clip117)">
+                    <path d="M844.5 1610.92C869.583 1610.92 889.917 1590.58 889.917 1565.5 889.917 1540.42 869.583 1520.08 844.5 1520.08 819.417 1520.08 799.083 1540.42 799.083 1565.5 799.083 1590.58 819.417 1610.92 844.5 1610.92Z"
+                          stroke="#999999" stroke-width="6.8125" stroke-linejoin="round" fill="none"/>
+                    <path d="M860.396 1551.88 860.396 1554.15" stroke="#999999" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M828.604 1551.88 828.604 1554.15" stroke="#999999" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M860.396 1581.4C860.396 1581.4 855.854 1590.48 844.5 1590.48 833.146 1590.48 828.604 1581.4 828.604 1581.4"
+                          stroke="#999999" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip118)">
+            <g clip-path="url(#clip119)">
+                <g clip-path="url(#clip120)">
+                    <path d="M733.5 217.917C758.583 217.917 778.917 197.583 778.917 172.5 778.917 147.417 758.583 127.083 733.5 127.083 708.417 127.083 688.083 147.417 688.083 172.5 688.083 197.583 708.417 217.917 733.5 217.917Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M688.083 172.5 778.917 172.5" stroke="#000000" stroke-width="6.8125" stroke-linecap="round"
+                          stroke-linejoin="round" fill="none"/>
+                    <path d="M733.5 217.917C743.533 217.917 751.667 197.583 751.667 172.5 751.667 147.417 743.533 127.083 733.5 127.083 723.467 127.083 715.333 147.417 715.333 172.5 715.333 197.583 723.467 217.917 733.5 217.917Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M701.386 141.031C709.604 149.25 720.958 154.333 733.5 154.333 746.041 154.333 757.396 149.25 765.614 141.031"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M765.614 203.969C757.396 195.75 746.041 190.667 733.5 190.667 720.958 190.667 709.604 195.75 701.386 203.969"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip121)">
+            <g clip-path="url(#clip122)">
+                <g clip-path="url(#clip123)">
+                    <path d="M950.5 433.917C975.583 433.917 995.917 413.583 995.917 388.5 995.917 363.417 975.583 343.083 950.5 343.083 925.417 343.083 905.083 363.417 905.083 388.5 905.083 413.583 925.417 433.917 950.5 433.917Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linejoin="round" fill="none"/>
+                    <path d="M966.396 374.875 966.396 377.146" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M934.604 374.875 934.604 377.146" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M966.396 404.396C966.396 404.396 961.854 413.479 950.5 413.479 939.146 413.479 934.604 404.396 934.604 404.396"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                </g>
+            </g>
+        </g>
+        <path d="M537.051 1349.23 433.5 1243.5" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd"/>
+        <path d="M773.615 1180.39 649.5 1066.5" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd"/>
+        <path d="M837.349 1500.36 825.5 1298.5" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd"/>
+        <path d="M0 0 141.274 66.1144" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd" transform="matrix(-1 0 0 1 607.774 659.5)"/>
+        <path d="M0 0 168.883 147.976" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd" transform="matrix(-1 0 0 1 893.383 437.5)"/>
+        <path d="M435.5 807.5 556.639 961.312" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd"/>
+        <path d="M796.565 827.104 470.5 776.5" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd"/>
+        <path d="M466.5 1195.5 746.301 1222.59" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd"/>
+        <path d="M0 0 285.312 4.66489" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd" transform="matrix(-1 0 0 1 875.813 395.5)"/>
+        <path d="M899.621 335.956 786.5 222.5" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd"/>
+        <path d="M0 0 53.0097 310.76" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd" transform="matrix(1 0 0 -1 883.5 765.26)"/>
+        <path d="M0 0 76.5031 217.564" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd" transform="matrix(1 0 0 -1 418.5 683.064)"/>
+        <path d="M0 0 109.853 120.82" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd" transform="matrix(1 0 0 -1 893.5 1516.32)"/>
+        <path d="M885.5 1258.5 980.469 1306" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd"/>
+        <path d="M0 0 199.85 129" stroke="#999999" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd" transform="matrix(-1 0 0 1 1092.35 1067.5)"/>
+        <text fill="#999999" font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400"
+              font-size="55" transform="matrix(1 0 0 1 627.138 323)">2
+            <tspan font-size="55" x="-207.872" y="257">1</tspan>
+            <tspan font-size="55" x="88.9771" y="60">1</tspan>
+            <tspan font-size="55" x="226.233" y="-50">3</tspan>
+            <tspan font-size="55" x="149.561" y="181">1</tspan>
+            <tspan font-size="55" x="-22.4351" y="189">9</tspan>
+            <tspan font-size="55" x="-114.837" y="357">1</tspan>
+            <tspan font-size="55" x="-3.95557" y="464">1</tspan>
+            <tspan font-size="55" x="145.506" y="402">6</tspan>
+            <tspan font-size="55" x="245.715" y="299">1</tspan>
+            <tspan font-size="55" x="418.499" y="184">8</tspan>
+            <tspan font-size="55" x="378.859" y="455">6</tspan>
+            <tspan font-size="55" x="353.05" y="658">3</tspan>
+            <tspan font-size="55" x="180.112" y="726">1</tspan>
+            <tspan font-size="55" x="76.9583" y="597">7</tspan>
+            <tspan font-size="55" x="-117.52" y="558">2</tspan>
+            <tspan font-size="55" x="87.5931" y="791">1</tspan>
+            <tspan font-size="55" x="-31.9612" y="871">1</tspan>
+            <tspan font-size="55" x="-131.134" y="968">5</tspan>
+            <tspan font-size="55" x="49.5904" y="987">4</tspan>
+            <tspan font-size="55" x="216.286" y="1087">1</tspan>
+            <tspan font-size="55" x="289.744" y="1125">6</tspan>
+            <tspan font-size="55" x="307.98" y="946">9</tspan>
+            <tspan font-size="55" x="337.884" y="799">5</tspan>
+            <tspan font-size="55" x="-160.666" y="762">5</tspan>
+        </text>
+        <g clip-path="url(#clip124)">
+            <g clip-path="url(#clip125)">
+                <g clip-path="url(#clip126)">
+                    <path d="M876.5 880.917C901.583 880.917 921.917 860.583 921.917 835.5 921.917 810.417 901.583 790.083 876.5 790.083 851.417 790.083 831.083 810.417 831.083 835.5 831.083 860.583 851.417 880.917 876.5 880.917Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linejoin="round"/>
+                    <path d="M892.396 860.479C892.396 860.479 887.854 851.396 876.5 851.396 865.146 851.396 860.604 860.479 860.604 860.479"
+                          stroke="#FFFFFF" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M901.479 821.875 885.583 819.604" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M896.937 821.875 896.937 842.312" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M867.417 819.604 851.521 821.875" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M856.062 821.875 856.062 842.312" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                </g>
+            </g>
+        </g>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="64"
+              transform="matrix(1 0 0 1 1157.71 488)">fraud
+            <tspan font-size="64" x="135.208" y="0">-</tspan>
+            <tspan font-size="64" x="156.406" y="0">related</tspan>
+            <tspan font-size="83" x="-39.4938" y="438">#D</tspan>
+            <tspan font-size="83" x="-514.126" y="998">#C</tspan>
+            <tspan font-size="83" x="-614.861" y="-316">#A</tspan>
+            <tspan font-size="83" x="-132.858" y="-68">#E</tspan>
+        </text>
+        <path d="M532.015 479.525 605.133 586.63 596.616 592.445 523.498 485.339ZM525.151 518.524 521.987 473.98 562.318 493.151C564.89 494.374 565.984 497.45 564.761 500.022 563.539 502.594 560.463 503.688 557.891 502.465L525.543 487.089 532.9 482.067 535.438 517.793C535.64 520.633 533.501 523.1 530.66 523.302 527.819 523.503 525.353 521.364 525.151 518.524Z"
+              fill="#C00000"/>
+        <path d="M10.8923 3.48892 130.303 121.068 123.067 128.416 3.65688 10.8371ZM11.681 43.0795-0.0170296-0.0167681 43.2549 11.0137C46.0144 11.7171 47.6812 14.5243 46.9778 17.2838 46.2744 20.0433 43.4671 21.7101 40.7076 21.0066L6.00105 12.1596 12.2509 5.81237 21.6334 40.3781C22.3794 43.1263 20.7562 45.959 18.0079 46.705 15.2597 47.451 12.427 45.8278 11.681 43.0795Z"
+              fill="#C00000" transform="matrix(-1 0 0 1 659.685 189)"/>
+        <path d="M972.242 476.091 1058.19 591.082 1049.93 597.256 963.982 482.265ZM967.055 515.348 961.986 470.981 1003.1 488.407C1005.72 489.518 1006.95 492.545 1005.84 495.167 1004.73 497.788 1001.7 499.013 999.077 497.902L966.1 483.925 973.235 478.592 977.301 514.177C977.624 517.007 975.593 519.562 972.763 519.885 969.934 520.209 967.378 518.177 967.055 515.348Z"
+              fill="#FFC000"/>
+        <path d="M11.1168 2.6905 134.197 107.443 127.513 115.297 4.43291 10.5438ZM14.7725 42.1197-0.0181983-0.0154888 43.9394 7.8498C46.7426 8.35138 48.6085 11.0304 48.1069 13.8336 47.6053 16.6368 44.9263 18.5027 42.1231 18.0011L6.86654 11.6927 12.6399 4.9092 24.5029 38.704C25.4461 41.391 24.0325 44.3338 21.3455 45.277 18.6586 46.2202 15.7157 44.8066 14.7725 42.1197Z"
+              fill="#FFC000" transform="matrix(-1 0 0 1 1044.85 650)"/>
+        <path d="M701.004 713.119 799.612 803.853 792.629 811.442 694.021 720.707ZM703.131 752.66 689.982 709.984 733.603 719.544C736.384 720.154 738.145 722.903 737.535 725.685 736.926 728.466 734.176 730.227 731.395 729.618L696.409 721.949 702.44 715.394 712.987 749.623C713.825 752.345 712.299 755.23 709.577 756.069 706.856 756.908 703.97 755.381 703.131 752.66Z"
+              fill="#C00000"/>
+        <path d="M955.961 844.779 1112.84 954.822 1106.91 963.264 950.039 853.221ZM1099.6 924.348 1118.25 964.919 1073.75 961.189C1070.92 960.951 1068.81 958.458 1069.05 955.62 1069.28 952.782 1071.78 950.675 1074.62 950.913L1110.31 953.905 1105.19 961.197 1090.23 928.656C1089.04 926.069 1090.17 923.007 1092.76 921.817 1095.34 920.628 1098.41 921.76 1099.6 924.348Z"
+              fill="#7030A0"/>
+        <path d="M5.10146-0.749692 40.7561 241.871 30.5532 243.37-5.10146 0.749692ZM53.7959 211.311 37.1426 252.745 9.27265 217.854C7.49538 215.629 7.85836 212.385 10.0834 210.607 12.3084 208.83 15.5529 209.193 17.3302 211.418L39.6835 239.403 30.8704 240.698 44.2274 207.465C45.2894 204.823 48.2923 203.542 50.9346 204.604 53.5768 205.666 54.8579 208.669 53.7959 211.311Z"
+              fill="#0070C0" transform="matrix(-1 0 0 1 901.139 916)"/>
+        <path d="M3.11249-4.11088 124.014 87.4276 117.789 95.6494-3.11249 4.11088ZM111.889 56.4928 129.06 97.7156 84.725 92.3708C81.8978 92.0299 79.8821 89.4617 80.223 86.6344 80.5638 83.8072 83.1321 81.7915 85.9593 82.1324L121.518 86.4192 116.141 93.521 102.37 60.458C101.275 57.8292 102.518 54.8105 105.147 53.7156 107.776 52.6206 110.794 53.864 111.889 56.4928Z"
+              fill="#0070C0" transform="matrix(-1 0 0 1 793.041 1301)"/>
+        <path d="M11.3191 1.64125 147.34 97.049 141.418 105.492 5.39721 10.0839ZM18.6384 40.5574-0.019565-0.0137231 44.4802 3.71539C47.318 3.9532 49.4257 6.44645 49.1879 9.28422 48.95 12.122 46.4568 14.2297 43.619 13.9919L7.92767 11.0009 13.0429 3.7083 28.0076 36.2487C29.1975 38.8359 28.0646 41.8978 25.4774 43.0876 22.8901 44.2775 19.8282 43.1446 18.6384 40.5574Z"
+              fill="#00B050" transform="matrix(1 0 0 -1 678 1009.27)"/>
+        <path d="M11.2208 2.21622 107.995 77.74 101.651 85.8698 4.87619 10.346ZM16.5466 41.4548-0.0188411-0.0147028 44.233 5.97814C47.0549 6.3603 49.0328 8.95776 48.6506 11.7797 48.2684 14.6017 45.671 16.5795 42.849 16.1974L7.35654 11.3908 12.8369 4.36839 26.1233 37.6293C27.1796 40.2739 25.8922 43.2741 23.2477 44.3304 20.6031 45.3868 17.603 44.0994 16.5466 41.4548Z"
+              fill="#00B050" transform="matrix(1 0 0 -1 460 1163.81)"/>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="73"
+              transform="matrix(1 0 0 1 1639.81 528)">#B
+            <tspan font-size="73" x="0" y="311">#C</tspan>
+            <tspan font-size="73" x="-4.01038" y="622">#D</tspan>
+            <tspan font-size="73" x="4.0105" y="934">#E</tspan>
+            <tspan font-size="83" x="1979.96" y="1057">Average</tspan>
+        </text>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="110"
+              transform="matrix(6.12323e-17 1 -1 6.12323e-17 2978.96 1225)">…
+            <tspan font-size="110" x="-312" y="-1.91045e-14">…</tspan>
+            <tspan font-size="110" x="-623" y="-3.81477e-14">…</tspan>
+        </text>
+        <path d="M3409.75 329.5 3409.75 311.25 3292.5 311.25 3292.5 274.75 3409.75 274.75 3409.75 256.5 3457.5 293Z"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="73"
+              transform="matrix(1 0 0 1 3298.72 172)">Path
+            <tspan font-size="73" x="-58.1624" y="68">#A ~ #E</tspan>
+        </text>
+        <path d="M1513.75 329.5 1513.75 311.25 1397.5 311.25 1397.5 274.75 1513.75 274.75 1513.75 256.5 1561.5 293Z"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="73"
+              transform="matrix(1 0 0 1 1403.57 172)">Path
+            <tspan font-size="73" x="-58.1625" y="68">#A ~ #E</tspan>
+        </text>
+        <path d="M3412.5 1560.21 3540.15 1560.21 3540.15 1564.79 3412.5 1564.79ZM3535.56 1548.75 3581.4 1562.5 3535.56 1576.25Z"/>
+        <path d="M4515.5 1940.5C4515.5 1949.89 4514.87 1957.5 4514.08 1957.5L4399.92 1957.5C4399.13 1957.5 4398.5 1949.89 4398.5 1940.5"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="83"
+              transform="matrix(1 0 0 1 4549.03 1976)">Event
+        </text>
+        <path d="M0 0 123.425 0.000360892" stroke="#000000" stroke-width="6.875" stroke-miterlimit="8" fill="none"
+              fill-rule="evenodd" transform="matrix(-1 0 0 1 3095.93 1968.5)"/>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="83"
+              transform="matrix(1 0 0 1 3128.62 1976)">No. of Visits
+        </text>
+        <g clip-path="url(#clip127)">
+            <g clip-path="url(#clip128)">
+                <g clip-path="url(#clip129)">
+                    <path d="M54.5 99.9166C79.5829 99.9166 99.9166 79.5829 99.9166 54.5 99.9166 29.417 79.5829 9.08333 54.5 9.08333 29.417 9.08333 9.08333 29.417 9.08333 54.5 9.08333 79.5829 29.417 99.9166 54.5 99.9166Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linejoin="round"
+                          transform="matrix(1.00917 0 0 1 615 1892)"/>
+                    <path d="M70.3958 79.4791C70.3958 79.4791 65.8541 70.3958 54.5 70.3958 43.1458 70.3958 38.6042 79.4791 38.6042 79.4791"
+                          stroke="#FFFFFF" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1.00917 0 0 1 615 1892)"/>
+                    <path d="M79.4791 40.875 63.5833 38.6042" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1.00917 0 0 1 615 1892)"/>
+                    <path d="M74.9375 40.875 74.9375 61.3125" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1.00917 0 0 1 615 1892)"/>
+                    <path d="M45.4166 38.6042 29.5208 40.875" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1.00917 0 0 1 615 1892)"/>
+                    <path d="M34.0625 40.875 34.0625 61.3125" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1.00917 0 0 1 615 1892)"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip130)">
+            <g clip-path="url(#clip131)">
+                <g clip-path="url(#clip132)">
+                    <path d="M529.5 1991.92C554.583 1991.92 574.917 1971.58 574.917 1946.5 574.917 1921.42 554.583 1901.08 529.5 1901.08 504.417 1901.08 484.083 1921.42 484.083 1946.5 484.083 1971.58 504.417 1991.92 529.5 1991.92Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linejoin="round" fill="none"/>
+                    <path d="M545.396 1932.88 545.396 1935.15" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M513.604 1932.88 513.604 1935.15" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M545.396 1962.4C545.396 1962.4 540.854 1971.48 529.5 1971.48 518.146 1971.48 513.604 1962.4 513.604 1962.4"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#clip133)">
+            <g clip-path="url(#clip134)">
+                <g clip-path="url(#clip135)">
+                    <path d="M433.917 1946.5C433.917 1971.58 413.583 1991.92 388.5 1991.92 363.417 1991.92 343.083 1971.58 343.083 1946.5 343.083 1921.42 363.417 1901.08 388.5 1901.08 413.583 1901.08 433.917 1921.42 433.917 1946.5Z"
+                          stroke="#000000" stroke-width="6.8125" fill="none"/>
+                </g>
+            </g>
+        </g>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="83"
+              transform="matrix(1 0 0 1 446.756 1976)">/
+            <tspan font-size="83" x="140.893" y="0">/</tspan>
+            <tspan font-style="italic" font-size="55" x="2579.26" y="-20">t</tspan>
+        </text>
+        <path d="M736.812 632.73 754.975 635.223 754.351 639.764 736.188 637.27ZM768.578 637.04 786.768 639.329 786.196 643.877 768.006 641.588ZM800.373 640.778 818.533 642.531 818.471 642.526 818.56 642.532 818.244 647.105 818.124 647.097 799.933 645.34ZM832.215 643.471 845.471 644.023 845.407 644.021 850.473 644.091 850.409 648.674 845.312 648.604 832.024 648.05ZM864.157 644.134 872.218 644.021 872.133 644.024 882.391 643.497 882.626 648.074 872.325 648.603 864.222 648.717ZM895.992 642.345 898.66 642.094 898.565 642.104 911.815 640.292 911.717 640.307 913.961 639.901 914.777 644.412 912.485 644.826 899.138 646.652 896.423 646.908ZM927.348 637.342 937.79 634.894 937.665 634.927 944.963 632.776 946.259 637.172 938.899 639.341 928.394 641.804ZM957.904 628.523 963.36 626.59 963.253 626.631 974.853 621.854 976.598 626.093 964.945 630.891 959.435 632.843ZM987.231 616.123 988.591 615.487 988.514 615.525 1001.14 609.025 1001.05 609.072 1003.34 607.768 1005.61 611.75 1003.28 613.078 990.573 619.62 989.174 620.275ZM1015.19 600.941 1025.99 594.298 1025.94 594.33 1030.67 591.244 1033.17 595.085 1028.41 598.186 1017.59 604.845ZM1042.07 583.667 1050.63 577.74 1050.59 577.77 1057 573.12 1059.69 576.829 1053.26 581.495 1044.68 587.436ZM1068.02 564.97 1075.12 559.609 1075.08 559.642 1082.47 553.779 1085.32 557.371 1077.9 563.25 1070.78 568.628ZM1093.25 545.237 1099.51 540.267 1099.48 540.295 1107.45 533.718 1110.37 537.253 1102.38 543.844 1096.09 548.828ZM1118.05 524.967 1123.79 520.232 1123.77 520.25 1132.09 513.216 1135.05 516.716 1126.72 523.759 1120.97 528.502ZM1142.59 504.339 1144.56 502.679 1147.51 506.18 1145.55 507.839ZM1114.28 507.675 1149.51 501.493 1137.55 535.2C1137.13 536.393 1135.82 537.017 1134.62 536.594 1133.43 536.171 1132.81 534.86 1133.23 533.668L1143.88 503.663 1146.43 506.687 1115.07 512.19C1113.83 512.408 1112.64 511.575 1112.42 510.329 1112.2 509.082 1113.03 507.894 1114.28 507.675Z"/>
+        <path d="M666.348 1030.21 684.641 1029 684.945 1033.57 666.652 1034.79ZM698.36 1028.08 716.653 1026.86 716.958 1031.44 698.665 1032.66ZM730.339 1025.84 746.385 1024.59 746.352 1024.59 748.581 1024.39 749.003 1028.95 746.757 1029.16 730.694 1030.41ZM762.273 1023.12 772.727 1022.16 772.687 1022.16 780.475 1021.3 780.976 1025.86 773.168 1026.72 762.695 1027.69ZM794.142 1019.8 798.812 1019.28 798.759 1019.29 812.275 1017.49 812.882 1022.03 799.34 1023.84 794.644 1024.35ZM825.841 1015.64 843.945 1012.75 844.667 1017.27 826.564 1020.17ZM857.387 1010.31 874.679 1006.88 874.594 1006.9 875.278 1006.73 876.341 1011.19 875.614 1011.36 858.279 1014.81ZM888.653 1003.54 898.969 1001.08 898.87 1001.11 906.3 998.983 907.561 1003.39 900.081 1005.53 889.716 1008ZM919.52 995.201 922.682 994.297 922.563 994.334 936.781 989.416 938.279 993.747 924.003 998.686 920.781 999.608ZM949.558 984.73 966.501 977.726 968.252 981.962 951.309 988.966ZM978.766 971.838 989.432 966.628 989.323 966.685 994.969 963.541 997.199 967.545 991.499 970.72 980.777 975.957ZM1006.74 956.615 1009.93 954.668 1009.86 954.711 1019.93 948.086 1019.85 948.138 1021.92 946.653 1024.59 950.377 1022.49 951.889 1012.35 958.561 1009.13 960.528ZM1032.9 938.547 1039.09 933.697 1039.01 933.755 1046.99 926.965 1049.96 930.455 1041.95 937.275 1035.73 942.153ZM1057.03 917.721 1057.19 917.573 1057.13 917.63 1065.88 908.88 1065.81 908.949 1069.7 904.722 1073.07 907.823 1069.15 912.086 1060.34 920.9 1060.15 921.076ZM1078.77 894.498 1082.51 890.134 1082.47 890.187 1090.37 880.389 1093.93 883.266 1086.01 893.09 1082.25 897.481ZM1098.49 869.522 1108.83 854.381 1112.61 856.966 1102.27 872.106ZM1116.25 842.955 1125.78 827.294 1129.7 829.677 1120.16 845.338ZM1132.45 815.393 1140.68 800.398 1140.63 800.481 1141.18 799.379 1145.29 801.417 1144.72 802.561 1136.47 817.598ZM1147.3 787.063 1153.38 774.794 1153.35 774.861 1155.28 770.643 1159.45 772.547 1157.51 776.798 1151.4 789.1ZM1160.99 758.136 1165.54 748.173 1165.52 748.23 1168.4 741.435 1172.62 743.225 1169.72 750.049 1165.16 760.04ZM1173.76 728.776 1177.2 720.668 1177.18 720.726 1180.66 711.857 1184.92 713.53 1181.43 722.428 1177.98 730.566ZM1185.68 699.056 1188.3 692.351 1188.29 692.388 1192.17 681.956 1196.47 683.554 1192.58 694.005 1189.94 700.729ZM1196.97 669.069 1199.1 663.326 1199.09 663.365 1203.14 651.85 1207.46 653.37 1203.41 664.905 1201.26 670.667ZM1207.7 638.878 1209.53 633.677 1209.52 633.702 1213.63 621.56 1217.97 623.031 1213.85 635.185 1212.02 640.398ZM1218.04 608.537 1219.7 603.64 1219.7 603.66 1223.81 591.155 1228.16 592.586 1224.05 605.1 1222.39 610.008ZM1228.1 578.092 1229.7 573.222 1229.69 573.24 1233.71 560.659 1238.08 562.054 1234.06 574.644 1232.45 579.523ZM1237.89 547.561 1243.47 530.097 1247.84 531.492 1242.26 548.956ZM1247.66 516.999 1247.94 516.125 1252.3 517.52 1252.02 518.394ZM1224.94 536.435 1251.5 512.49 1259.27 547.402C1259.54 548.637 1258.77 549.862 1257.53 550.137 1256.29 550.411 1255.07 549.633 1254.8 548.397L1247.88 517.32 1251.65 518.525 1228 539.839C1227.06 540.687 1225.62 540.612 1224.77 539.671 1223.92 538.731 1224 537.282 1224.94 536.435Z"/>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="64"
+              transform="matrix(1 0 0 1 3229.99 1399)">Mining
+            <tspan font-size="64" x="-23.1917" y="68">#A &amp; #B</tspan>
+        </text>
+        <path d="M3754.33 556.325 3753.84 468.028 3764.16 467.972 3764.64 556.269ZM3776.65 538.31 3759.54 566.025 3742.12 538.499C3740.6 536.093 3741.32 532.908 3743.72 531.385 3746.13 529.863 3749.31 530.579 3750.84 532.986L3763.84 553.54 3755.1 553.588 3767.87 532.893C3769.37 530.47 3772.55 529.718 3774.97 531.214 3777.39 532.71 3778.14 535.887 3776.65 538.31Z"/>
+        <path d="M3754.33 1180.33 3753.84 1092.03 3764.16 1091.97 3764.64 1180.27ZM3776.65 1162.31 3759.54 1190.03 3742.12 1162.5C3740.6 1160.09 3741.32 1156.91 3743.72 1155.39 3746.13 1153.86 3749.31 1154.58 3750.84 1156.99L3763.84 1177.54 3755.1 1177.59 3767.87 1156.89C3769.37 1154.47 3772.55 1153.72 3774.97 1155.21 3777.39 1156.71 3778.14 1159.89 3776.65 1162.31Z"/>
+        <path d="M3754.33 868.325 3753.84 780.028 3764.16 779.972 3764.64 868.269ZM3776.65 850.311 3759.54 878.026 3742.12 850.5C3740.6 848.093 3741.32 844.908 3743.72 843.385 3746.13 841.863 3749.31 842.58 3750.84 844.986L3763.84 865.54 3755.1 865.588 3767.87 844.893C3769.37 842.47 3772.55 841.718 3774.97 843.214 3777.39 844.71 3778.14 847.887 3776.65 850.311Z"/>
+        <text font-family="Times New Roman,Times New Roman_MSFontService,sans-serif" font-weight="400" font-size="73"
+              transform="matrix(1 0 0 1 3596.49 178)">#A
+            <tspan font-size="73" x="92.1912" y="43">#B</tspan>
+            <tspan font-size="73" x="177.947" y="83">#C</tspan>
+            <tspan font-size="73" x="261.802" y="122">#D</tspan>
+            <tspan font-size="73" x="348.931" y="162">#E</tspan>
+            <tspan font-size="73" x="-53.0679" y="277">#1</tspan>
+            <tspan font-size="73" x="-53.0679" y="588">#2</tspan>
+            <tspan font-size="73" x="-53.0679" y="900">#3</tspan>
+            <tspan font-size="73" x="-53.0679" y="1212">#4</tspan>
+        </text>
+        <path d="M3527.5 729.5C3509.27 729.5 3494.5 728.269 3494.5 726.75L3494.5 442.25C3494.5 440.731 3509.27 439.5 3527.5 439.5"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M3527.5 1041.5C3509.27 1041.5 3494.5 1040.27 3494.5 1038.75L3494.5 754.25C3494.5 752.731 3509.27 751.5 3527.5 751.5"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M3527.5 1353.5C3509.27 1353.5 3494.5 1352.27 3494.5 1350.75L3494.5 1066.25C3494.5 1064.73 3509.27 1063.5 3527.5 1063.5"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M3573.98 211.962C3580.66 197.624 3597.71 191.421 3612.04 198.107L3978.58 369.024C3992.92 375.71 3999.12 392.753 3992.43 407.091L3944.01 510.932C3937.32 525.27 3920.28 531.473 3905.94 524.787L3539.41 353.869C3525.07 347.183 3518.87 330.14 3525.55 315.802Z"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" stroke-dasharray="18.3333 13.75" fill="none"
+              fill-rule="evenodd"/>
+        <rect x="3840" y="369" width="109" height="109" fill="#FFC000" fill-opacity="0.101961"/>
+        <g clip-path="url(#clip136)">
+            <g clip-path="url(#clip137)">
+                <g clip-path="url(#clip138)">
+                    <path d="M54.5 99.9166C79.5829 99.9166 99.9166 79.5829 99.9166 54.5 99.9166 29.417 79.5829 9.08333 54.5 9.08333 29.417 9.08333 9.08333 29.417 9.08333 54.5 9.08333 79.5829 29.417 99.9166 54.5 99.9166Z"
+                          stroke="#999999" stroke-width="6.8125" stroke-linejoin="round" fill="#999999"
+                          transform="matrix(1 0 0 1 3840 369)"/>
+                    <path d="M70.3958 79.4791C70.3958 79.4791 65.8541 70.3958 54.5 70.3958 43.1458 70.3958 38.6042 79.4791 38.6042 79.4791"
+                          stroke="#FFFFFF" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1 0 0 1 3840 369)"/>
+                    <path d="M79.4791 40.875 63.5833 38.6042" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1 3840 369)"/>
+                    <path d="M74.9375 40.875 74.9375 61.3125" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1 3840 369)"/>
+                    <path d="M45.4166 38.6042 29.5208 40.875" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1 3840 369)"/>
+                    <path d="M34.0625 40.875 34.0625 61.3125" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1 3840 369)"/>
+                </g>
+            </g>
+        </g>
+        <rect x="3772" y="338" width="109" height="109" fill="#7030A0" fill-opacity="0.101961"/>
+        <g clip-path="url(#clip139)">
+            <g clip-path="url(#clip140)">
+                <g clip-path="url(#clip141)">
+                    <path d="M3826.5 437.917C3851.58 437.917 3871.92 417.583 3871.92 392.5 3871.92 367.417 3851.58 347.083 3826.5 347.083 3801.42 347.083 3781.08 367.417 3781.08 392.5 3781.08 417.583 3801.42 437.917 3826.5 437.917Z"
+                          stroke="#999999" stroke-width="6.8125" stroke-linejoin="round" fill="#999999"/>
+                    <path d="M3842.4 417.479C3842.4 417.479 3837.85 408.396 3826.5 408.396 3815.15 408.396 3810.6 417.479 3810.6 417.479"
+                          stroke="#FFFFFF" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M3851.48 378.875 3835.58 376.604" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M3846.94 378.875 3846.94 399.312" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M3817.42 376.604 3801.52 378.875" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M3806.06 378.875 3806.06 399.312" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                </g>
+            </g>
+        </g>
+        <rect x="3704" y="307" width="110" height="109" fill="#0070C0" fill-opacity="0.101961"/>
+        <g clip-path="url(#clip142)">
+            <g clip-path="url(#clip143)">
+                <g clip-path="url(#clip144)">
+                    <path d="M54.5 99.9166C79.5829 99.9166 99.9166 79.5829 99.9166 54.5 99.9166 29.417 79.5829 9.08333 54.5 9.08333 29.417 9.08333 9.08333 29.417 9.08333 54.5 9.08333 79.5829 29.417 99.9166 54.5 99.9166Z"
+                          stroke="#999999" stroke-width="6.8125" stroke-linejoin="round" fill="#999999"
+                          transform="matrix(1.00917 0 0 1 3704 307)"/>
+                    <path d="M70.3958 79.4791C70.3958 79.4791 65.8541 70.3958 54.5 70.3958 43.1458 70.3958 38.6042 79.4791 38.6042 79.4791"
+                          stroke="#FFFFFF" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1.00917 0 0 1 3704 307)"/>
+                    <path d="M79.4791 40.875 63.5833 38.6042" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1.00917 0 0 1 3704 307)"/>
+                    <path d="M74.9375 40.875 74.9375 61.3125" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1.00917 0 0 1 3704 307)"/>
+                    <path d="M45.4166 38.6042 29.5208 40.875" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1.00917 0 0 1 3704 307)"/>
+                    <path d="M34.0625 40.875 34.0625 61.3125" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1.00917 0 0 1 3704 307)"/>
+                </g>
+            </g>
+        </g>
+        <rect x="3637" y="276" width="109" height="109" fill="#00B050" fill-opacity="0.101961"/>
+        <g clip-path="url(#clip145)">
+            <g clip-path="url(#clip146)">
+                <g clip-path="url(#clip147)">
+                    <path d="M3691.5 375.917C3716.58 375.917 3736.92 355.583 3736.92 330.5 3736.92 305.417 3716.58 285.083 3691.5 285.083 3666.42 285.083 3646.08 305.417 3646.08 330.5 3646.08 355.583 3666.42 375.917 3691.5 375.917Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linejoin="round"/>
+                    <path d="M3707.4 355.479C3707.4 355.479 3702.85 346.396 3691.5 346.396 3680.15 346.396 3675.6 355.479 3675.6 355.479"
+                          stroke="#FFFFFF" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M3716.48 316.875 3700.58 314.604" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M3711.94 316.875 3711.94 337.312" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M3682.42 314.604 3666.52 316.875" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M3671.06 316.875 3671.06 337.312" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                </g>
+            </g>
+        </g>
+        <rect x="3569" y="245" width="109" height="109" fill="#C00000" fill-opacity="0.101961"/>
+        <g clip-path="url(#clip148)">
+            <g clip-path="url(#clip149)">
+                <g clip-path="url(#clip150)">
+                    <path d="M3623.5 344.917C3648.58 344.917 3668.92 324.583 3668.92 299.5 3668.92 274.417 3648.58 254.083 3623.5 254.083 3598.42 254.083 3578.08 274.417 3578.08 299.5 3578.08 324.583 3598.42 344.917 3623.5 344.917Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linejoin="round"/>
+                    <path d="M3639.4 324.479C3639.4 324.479 3634.85 315.396 3623.5 315.396 3612.15 315.396 3607.6 324.479 3607.6 324.479"
+                          stroke="#FFFFFF" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M3648.48 285.875 3632.58 283.604" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M3643.94 285.875 3643.94 306.313" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M3614.42 283.604 3598.52 285.875" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M3603.06 285.875 3603.06 306.313" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                </g>
+            </g>
+        </g>
+        <path d="M3573.98 523.782C3580.66 509.444 3597.71 503.241 3612.04 509.927L3978.58 680.844C3992.92 687.53 3999.12 704.573 3992.43 718.911L3944.01 822.752C3937.32 837.09 3920.28 843.293 3905.94 836.607L3539.41 665.689C3525.07 659.003 3518.87 641.96 3525.55 627.622Z"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" stroke-dasharray="18.3333 13.75" fill="none"
+              fill-rule="evenodd"/>
+        <rect x="3840" y="681" width="109" height="109" fill="#FFC000" fill-opacity="0.101961"/>
+        <g clip-path="url(#clip151)">
+            <g clip-path="url(#clip152)">
+                <g clip-path="url(#clip153)">
+                    <path d="M3894.5 780.917C3919.58 780.917 3939.92 760.583 3939.92 735.5 3939.92 710.417 3919.58 690.083 3894.5 690.083 3869.42 690.083 3849.08 710.417 3849.08 735.5 3849.08 760.583 3869.42 780.917 3894.5 780.917Z"
+                          stroke="#999999" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M3849.08 735.5 3939.92 735.5" stroke="#999999" stroke-width="6.8125" stroke-linecap="round"
+                          stroke-linejoin="round" fill="none"/>
+                    <path d="M3894.5 780.917C3904.53 780.917 3912.67 760.583 3912.67 735.5 3912.67 710.417 3904.53 690.083 3894.5 690.083 3884.47 690.083 3876.33 710.417 3876.33 735.5 3876.33 760.583 3884.47 780.917 3894.5 780.917Z"
+                          stroke="#999999" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M3862.39 704.031C3870.6 712.25 3881.96 717.333 3894.5 717.333 3907.04 717.333 3918.4 712.25 3926.61 704.031"
+                          stroke="#999999" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M3926.61 766.969C3918.4 758.75 3907.04 753.667 3894.5 753.667 3881.96 753.667 3870.6 758.75 3862.39 766.969"
+                          stroke="#999999" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                </g>
+            </g>
+        </g>
+        <rect x="3772" y="650" width="109" height="109" fill="#7030A0" fill-opacity="0.101961"/>
+        <g clip-path="url(#clip154)">
+            <g clip-path="url(#clip155)">
+                <g clip-path="url(#clip156)">
+                    <path d="M3826.5 749.917C3851.58 749.917 3871.92 729.583 3871.92 704.5 3871.92 679.417 3851.58 659.083 3826.5 659.083 3801.42 659.083 3781.08 679.417 3781.08 704.5 3781.08 729.583 3801.42 749.917 3826.5 749.917Z"
+                          stroke="#999999" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M3781.08 704.5 3871.92 704.5" stroke="#999999" stroke-width="6.8125" stroke-linecap="round"
+                          stroke-linejoin="round" fill="none"/>
+                    <path d="M3826.5 749.917C3836.53 749.917 3844.67 729.583 3844.67 704.5 3844.67 679.417 3836.53 659.083 3826.5 659.083 3816.47 659.083 3808.33 679.417 3808.33 704.5 3808.33 729.583 3816.47 749.917 3826.5 749.917Z"
+                          stroke="#999999" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M3794.39 673.031C3802.6 681.25 3813.96 686.333 3826.5 686.333 3839.04 686.333 3850.4 681.25 3858.61 673.031"
+                          stroke="#999999" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M3858.61 735.969C3850.4 727.75 3839.04 722.667 3826.5 722.667 3813.96 722.667 3802.6 727.75 3794.39 735.969"
+                          stroke="#999999" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                </g>
+            </g>
+        </g>
+        <rect x="3704" y="619" width="110" height="109" fill="#0070C0" fill-opacity="0.101961"/>
+        <g clip-path="url(#clip157)">
+            <g clip-path="url(#clip158)">
+                <g clip-path="url(#clip159)">
+                    <path d="M54.5 99.9166C79.5829 99.9166 99.9166 79.5829 99.9166 54.5 99.9166 29.417 79.5829 9.08333 54.5 9.08333 29.417 9.08333 9.08333 29.417 9.08333 54.5 9.08333 79.5829 29.417 99.9166 54.5 99.9166Z"
+                          stroke="#999999" stroke-width="6.8125" stroke-linejoin="round" fill="none"
+                          transform="matrix(1.00917 0 0 1 3704 619)"/>
+                    <path d="M70.3958 40.875 70.3958 43.1458" stroke="#999999" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1.00917 0 0 1 3704 619)"/>
+                    <path d="M38.6042 40.875 38.6042 43.1458" stroke="#999999" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1.00917 0 0 1 3704 619)"/>
+                    <path d="M70.3958 70.3958C70.3958 70.3958 65.8541 79.4791 54.5 79.4791 43.1458 79.4791 38.6042 70.3958 38.6042 70.3958"
+                          stroke="#999999" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1.00917 0 0 1 3704 619)"/>
+                </g>
+            </g>
+        </g>
+        <rect x="3637" y="588" width="109" height="109" fill="#00B050" fill-opacity="0.101961"/>
+        <g clip-path="url(#clip160)">
+            <g clip-path="url(#clip161)">
+                <g clip-path="url(#clip162)">
+                    <path d="M3691.5 687.917C3716.58 687.917 3736.92 667.583 3736.92 642.5 3736.92 617.417 3716.58 597.083 3691.5 597.083 3666.42 597.083 3646.08 617.417 3646.08 642.5 3646.08 667.583 3666.42 687.917 3691.5 687.917Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M3646.08 642.5 3736.92 642.5" stroke="#000000" stroke-width="6.8125" stroke-linecap="round"
+                          stroke-linejoin="round" fill="none"/>
+                    <path d="M3691.5 687.917C3701.53 687.917 3709.67 667.583 3709.67 642.5 3709.67 617.417 3701.53 597.083 3691.5 597.083 3681.47 597.083 3673.33 617.417 3673.33 642.5 3673.33 667.583 3681.47 687.917 3691.5 687.917Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M3659.39 611.031C3667.6 619.25 3678.96 624.333 3691.5 624.333 3704.04 624.333 3715.4 619.25 3723.61 611.031"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M3723.61 673.969C3715.4 665.75 3704.04 660.667 3691.5 660.667 3678.96 660.667 3667.6 665.75 3659.39 673.969"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                </g>
+            </g>
+        </g>
+        <rect x="3569" y="557" width="109" height="109" fill="#C00000" fill-opacity="0.101961"/>
+        <g clip-path="url(#clip163)">
+            <g clip-path="url(#clip164)">
+                <g clip-path="url(#clip165)">
+                    <path d="M3623.5 656.917C3648.58 656.917 3668.92 636.583 3668.92 611.5 3668.92 586.417 3648.58 566.083 3623.5 566.083 3598.42 566.083 3578.08 586.417 3578.08 611.5 3578.08 636.583 3598.42 656.917 3623.5 656.917Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M3578.08 611.5 3668.92 611.5" stroke="#000000" stroke-width="6.8125" stroke-linecap="round"
+                          stroke-linejoin="round" fill="none"/>
+                    <path d="M3623.5 656.917C3633.53 656.917 3641.67 636.583 3641.67 611.5 3641.67 586.417 3633.53 566.083 3623.5 566.083 3613.47 566.083 3605.33 586.417 3605.33 611.5 3605.33 636.583 3613.47 656.917 3623.5 656.917Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M3591.39 580.031C3599.6 588.25 3610.96 593.333 3623.5 593.333 3636.04 593.333 3647.4 588.25 3655.61 580.031"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M3655.61 642.969C3647.4 634.75 3636.04 629.667 3623.5 629.667 3610.96 629.667 3599.6 634.75 3591.39 642.969"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                </g>
+            </g>
+        </g>
+        <path d="M3573.98 835.602C3580.66 821.264 3597.71 815.061 3612.04 821.747L3978.58 992.664C3992.92 999.35 3999.12 1016.39 3992.43 1030.73L3944.01 1134.57C3937.32 1148.91 3920.28 1155.11 3905.94 1148.43L3539.41 977.509C3525.07 970.823 3518.87 953.78 3525.55 939.443Z"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" stroke-dasharray="18.3333 13.75" fill="none"
+              fill-rule="evenodd"/>
+        <rect x="3840" y="992" width="109" height="109" fill="#FFC000" fill-opacity="0.101961"/>
+        <g clip-path="url(#clip166)">
+            <g clip-path="url(#clip167)">
+                <g clip-path="url(#clip168)">
+                    <path d="M3894.5 1091.92C3919.58 1091.92 3939.92 1071.58 3939.92 1046.5 3939.92 1021.42 3919.58 1001.08 3894.5 1001.08 3869.42 1001.08 3849.08 1021.42 3849.08 1046.5 3849.08 1071.58 3869.42 1091.92 3894.5 1091.92Z"
+                          stroke="#999999" stroke-width="6.8125" stroke-linejoin="round" fill="none"/>
+                    <path d="M3910.4 1032.88 3910.4 1035.15" stroke="#999999" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M3878.6 1032.88 3878.6 1035.15" stroke="#999999" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M3910.4 1062.4C3910.4 1062.4 3905.85 1071.48 3894.5 1071.48 3883.15 1071.48 3878.6 1062.4 3878.6 1062.4"
+                          stroke="#999999" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                </g>
+            </g>
+        </g>
+        <rect x="3772" y="961" width="109" height="110" fill="#7030A0" fill-opacity="0.101961"/>
+        <g clip-path="url(#clip169)">
+            <g clip-path="url(#clip170)">
+                <g clip-path="url(#clip171)">
+                    <path d="M99.9166 54.5C99.9166 79.5829 79.5829 99.9166 54.5 99.9166 29.4171 99.9166 9.08333 79.5829 9.08333 54.5 9.08333 29.4171 29.4171 9.08333 54.5 9.08333 79.5829 9.08333 99.9166 29.4171 99.9166 54.5Z"
+                          stroke="#999999" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1 0 0 1.00917 3772 961)"/>
+                    <path d="M74.9375 34.0625 34.0625 74.9375" stroke="#999999" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1.00917 3772 961)"/>
+                    <path d="M34.0625 34.0625 74.9375 74.9375" stroke="#999999" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1.00917 3772 961)"/>
+                </g>
+            </g>
+        </g>
+        <rect x="3704" y="931" width="110" height="109" fill="#0070C0" fill-opacity="0.101961"/>
+        <g clip-path="url(#clip172)">
+            <g clip-path="url(#clip173)">
+                <g clip-path="url(#clip174)">
+                    <path d="M54.5 99.9166C79.5829 99.9166 99.9166 79.5829 99.9166 54.5 99.9166 29.417 79.5829 9.08333 54.5 9.08333 29.417 9.08333 9.08333 29.417 9.08333 54.5 9.08333 79.5829 29.417 99.9166 54.5 99.9166Z"
+                          stroke="#999999" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd" transform="matrix(1.00917 0 0 1 3704 931)"/>
+                    <path d="M9.08333 54.5 99.9166 54.5" stroke="#999999" stroke-width="6.8125" stroke-linecap="round"
+                          stroke-linejoin="round" fill="none" transform="matrix(1.00917 0 0 1 3704 931)"/>
+                    <path d="M54.5 99.9166C64.5332 99.9166 72.6666 79.5829 72.6666 54.5 72.6666 29.417 64.5332 9.08333 54.5 9.08333 44.4668 9.08333 36.3333 29.417 36.3333 54.5 36.3333 79.5829 44.4668 99.9166 54.5 99.9166Z"
+                          stroke="#999999" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd" transform="matrix(1.00917 0 0 1 3704 931)"/>
+                    <path d="M22.3857 23.031C30.6045 31.2498 41.9586 36.3333 54.5 36.3333 67.0416 36.3333 78.3957 31.2498 86.6145 23.031"
+                          stroke="#999999" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1.00917 0 0 1 3704 931)"/>
+                    <path d="M86.6145 85.9689C78.3957 77.7501 67.0416 72.6666 54.5 72.6666 41.9586 72.6666 30.6045 77.7501 22.3857 85.9689"
+                          stroke="#999999" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1.00917 0 0 1 3704 931)"/>
+                </g>
+            </g>
+        </g>
+        <rect x="3637" y="900" width="109" height="109" fill="#00B050" fill-opacity="0.101961"/>
+        <g clip-path="url(#clip175)">
+            <g clip-path="url(#clip176)">
+                <g clip-path="url(#clip177)">
+                    <path d="M3691.5 999.917C3716.58 999.917 3736.92 979.583 3736.92 954.5 3736.92 929.417 3716.58 909.083 3691.5 909.083 3666.42 909.083 3646.08 929.417 3646.08 954.5 3646.08 979.583 3666.42 999.917 3691.5 999.917Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linejoin="round"/>
+                    <path d="M3707.4 979.479C3707.4 979.479 3702.85 970.396 3691.5 970.396 3680.15 970.396 3675.6 979.479 3675.6 979.479"
+                          stroke="#FFFFFF" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M3716.48 940.875 3700.58 938.604" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M3711.94 940.875 3711.94 961.312" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M3682.42 938.604 3666.52 940.875" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M3671.06 940.875 3671.06 961.312" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                </g>
+            </g>
+        </g>
+        <rect x="3569" y="869" width="109" height="109" fill="#C00000" fill-opacity="0.101961"/>
+        <g clip-path="url(#clip178)">
+            <g clip-path="url(#clip179)">
+                <g clip-path="url(#clip180)">
+                    <path d="M3623.5 968.917C3648.58 968.917 3668.92 948.583 3668.92 923.5 3668.92 898.417 3648.58 878.083 3623.5 878.083 3598.42 878.083 3578.08 898.417 3578.08 923.5 3578.08 948.583 3598.42 968.917 3623.5 968.917Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linejoin="round"/>
+                    <path d="M3639.4 948.479C3639.4 948.479 3634.85 939.396 3623.5 939.396 3612.15 939.396 3607.6 948.479 3607.6 948.479"
+                          stroke="#FFFFFF" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M3648.48 909.875 3632.58 907.604" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M3643.94 909.875 3643.94 930.312" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M3614.42 907.604 3598.52 909.875" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M3603.06 909.875 3603.06 930.312" stroke="#FFFFFF" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                </g>
+            </g>
+        </g>
+        <path d="M3573.98 1147.42C3580.66 1133.08 3597.71 1126.88 3612.04 1133.57L3978.58 1304.48C3992.92 1311.17 3999.12 1328.21 3992.43 1342.55L3944.01 1446.39C3937.32 1460.73 3920.28 1466.93 3905.94 1460.25L3539.41 1289.33C3525.07 1282.64 3518.87 1265.6 3525.55 1251.26Z"
+              stroke="#000000" stroke-width="4.58333" stroke-miterlimit="8" stroke-dasharray="18.3333 13.75" fill="none"
+              fill-rule="evenodd"/>
+        <rect x="3840" y="1304" width="109" height="109" fill="#FFC000" fill-opacity="0.101961"/>
+        <g clip-path="url(#clip181)">
+            <g clip-path="url(#clip182)">
+                <g clip-path="url(#clip183)">
+                    <path d="M99.9166 54.5C99.9166 79.5829 79.5829 99.9166 54.5 99.9166 29.4171 99.9166 9.08333 79.5829 9.08333 54.5 9.08333 29.4171 29.4171 9.08333 54.5 9.08333 79.5829 9.08333 99.9166 29.4171 99.9166 54.5Z"
+                          stroke="#999999" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1 0 0 1 3840 1304)"/>
+                    <path d="M74.9375 34.0625 34.0625 74.9375" stroke="#999999" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1 3840 1304)"/>
+                    <path d="M34.0625 34.0625 74.9375 74.9375" stroke="#999999" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1 3840 1304)"/>
+                </g>
+            </g>
+        </g>
+        <rect x="3772" y="1273" width="109" height="109" fill="#7030A0" fill-opacity="0.101961"/>
+        <g clip-path="url(#clip184)">
+            <g clip-path="url(#clip185)">
+                <g clip-path="url(#clip186)">
+                    <path d="M3871.92 1327.5C3871.92 1352.58 3851.58 1372.92 3826.5 1372.92 3801.42 1372.92 3781.08 1352.58 3781.08 1327.5 3781.08 1302.42 3801.42 1282.08 3826.5 1282.08 3851.58 1282.08 3871.92 1302.42 3871.92 1327.5Z"
+                          stroke="#999999" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M3846.94 1307.06 3806.06 1347.94" stroke="#999999" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M3806.06 1307.06 3846.94 1347.94" stroke="#999999" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                </g>
+            </g>
+        </g>
+        <rect x="3704" y="1242" width="110" height="109" fill="#0070C0" fill-opacity="0.101961"/>
+        <g clip-path="url(#clip187)">
+            <g clip-path="url(#clip188)">
+                <g clip-path="url(#clip189)">
+                    <path d="M99.9166 54.5C99.9166 79.5829 79.5829 99.9166 54.5 99.9166 29.4171 99.9166 9.08333 79.5829 9.08333 54.5 9.08333 29.4171 29.4171 9.08333 54.5 9.08333 79.5829 9.08333 99.9166 29.4171 99.9166 54.5Z"
+                          stroke="#999999" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1.00917 0 0 1 3704 1242)"/>
+                    <path d="M74.9375 34.0625 34.0625 74.9375" stroke="#999999" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1.00917 0 0 1 3704 1242)"/>
+                    <path d="M34.0625 34.0625 74.9375 74.9375" stroke="#999999" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1.00917 0 0 1 3704 1242)"/>
+                </g>
+            </g>
+        </g>
+        <rect x="3637" y="1211" width="109" height="110" fill="#00B050" fill-opacity="0.101961"/>
+        <g clip-path="url(#clip190)">
+            <g clip-path="url(#clip191)">
+                <g clip-path="url(#clip192)">
+                    <path d="M99.9166 54.5C99.9166 79.5829 79.5829 99.9166 54.5 99.9166 29.4171 99.9166 9.08333 79.5829 9.08333 54.5 9.08333 29.4171 29.4171 9.08333 54.5 9.08333 79.5829 9.08333 99.9166 29.4171 99.9166 54.5Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" transform="matrix(1 0 0 1.00917 3637 1211)"/>
+                    <path d="M74.9375 34.0625 34.0625 74.9375" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1.00917 3637 1211)"/>
+                    <path d="M34.0625 34.0625 74.9375 74.9375" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"
+                          transform="matrix(1 0 0 1.00917 3637 1211)"/>
+                </g>
+            </g>
+        </g>
+        <rect x="3569" y="1181" width="109" height="109" fill="#C00000" fill-opacity="0.101961"/>
+        <g clip-path="url(#clip193)">
+            <g clip-path="url(#clip194)">
+                <g clip-path="url(#clip195)">
+                    <path d="M3623.5 1280.92C3648.58 1280.92 3668.92 1260.58 3668.92 1235.5 3668.92 1210.42 3648.58 1190.08 3623.5 1190.08 3598.42 1190.08 3578.08 1210.42 3578.08 1235.5 3578.08 1260.58 3598.42 1280.92 3623.5 1280.92Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M3578.08 1235.5 3668.92 1235.5" stroke="#000000" stroke-width="6.8125"
+                          stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M3623.5 1280.92C3633.53 1280.92 3641.67 1260.58 3641.67 1235.5 3641.67 1210.42 3633.53 1190.08 3623.5 1190.08 3613.47 1190.08 3605.33 1210.42 3605.33 1235.5 3605.33 1260.58 3613.47 1280.92 3623.5 1280.92Z"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none" fill-rule="evenodd"/>
+                    <path d="M3591.39 1204.03C3599.6 1212.25 3610.96 1217.33 3623.5 1217.33 3636.04 1217.33 3647.4 1212.25 3655.61 1204.03"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                    <path d="M3655.61 1266.97C3647.4 1258.75 3636.04 1253.67 3623.5 1253.67 3610.96 1253.67 3599.6 1258.75 3591.39 1266.97"
+                          stroke="#000000" stroke-width="6.8125" stroke-linecap="round" stroke-linejoin="round"
+                          fill="none"/>
+                </g>
+            </g>
+        </g>
+        <path d="M2948.5 190.5C3114.93 190.5 3281.35 423.996 3281.35 657.491 3281.35 890.987 3115.4 1124.48 2949.44 1124.48"
+              stroke="#B32F5B" stroke-width="6.875" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M2948.5 501.5C3059.99 501.5 3171.48 657.164 3171.48 812.827 3171.48 968.491 3060.72 1124.15 2949.96 1124.15"
+              stroke="#B32F5B" stroke-width="6.875" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M2948.5 190.5C3180.24 190.5 3411.98 501.827 3411.98 813.155 3411.98 1124.48 3180.33 1435.81 2948.68 1435.81"
+              stroke="#B32F5B" stroke-width="6.875" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M2948.5 501.5C3115.57 501.5 3282.63 734.996 3282.63 968.491 3282.63 1201.99 3115.91 1435.48 2949.19 1435.48"
+              stroke="#B32F5B" stroke-width="6.875" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M0 0C-111.375 0-222.75 155.664-222.75 311.327-222.75 466.991-111.117 622.655 0.516798 622.655"
+              stroke="#B32F5B" stroke-width="6.875" stroke-miterlimit="8" fill="none" fill-rule="evenodd"
+              transform="matrix(-1 0 0 1 2949.02 190.5)"/>
+        <path d="M0 0C-65.0833 0-130.167 77.8319-130.167 155.664-130.167 233.496-64.8253 311.327 0.516076 311.327"
+              stroke="#B32F5B" stroke-width="6.875" stroke-miterlimit="8" fill="none" fill-rule="evenodd"
+              transform="matrix(-1 0 0 1 2949.02 190.5)"/>
+        <rect x="3650" y="1929" width="130" height="38.9999" fill="#AFABAB"/>
+        <path d="M3666 1948.5C3666 1944.36 3669.36 1941 3673.5 1941 3677.64 1941 3681 1944.36 3681 1948.5 3681 1952.64 3677.64 1956 3673.5 1956 3669.36 1956 3666 1952.64 3666 1948.5Z"
+              fill-rule="evenodd"/>
+        <path d="M3707 1948.5C3707 1944.36 3710.36 1941 3714.5 1941 3718.64 1941 3722 1944.36 3722 1948.5 3722 1952.64 3718.64 1956 3714.5 1956 3710.36 1956 3707 1952.64 3707 1948.5Z"
+              fill-rule="evenodd"/>
+        <path d="M3748 1948.5C3748 1944.36 3751.36 1941 3755.5 1941 3759.64 1941 3763 1944.36 3763 1948.5 3763 1952.64 3759.64 1956 3755.5 1956 3751.36 1956 3748 1952.64 3748 1948.5Z"
+              fill-rule="evenodd"/>
+    </g>
+</svg>
